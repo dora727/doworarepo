@@ -3,6 +3,7 @@
   "name": "Kaede fried doraa (TEST ONLY, DON'T USE)",
   "description": "A repo for PureKFD/picasso!",
   "icon": "RepoIcon.png", 
+  "repotype":"purekfdextended",
   "packages": [
     {
       "name": "Folder",
