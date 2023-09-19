@@ -1,54 +1,11 @@
 {
   "spec": "1.0",
-  "name": "Picasso Essentials",
-  "description": "Basic Tweaks to get you started!",
+  "name": "Kaede fried doraa (TEST ONLY, DON'T USE)",
+  "description": "A repo for PureKFD/picasso!",
   "icon": "RepoIcon.png", 
+  "spec":"1.0",
+  "repotype":"purekfdextended",
   "packages": [
-    {
-      "name": "Notification Banner Background",
-      "bundleid": "ca.bomberfish.bannerbg",
-      "author": "Picasso Team",
-      "description": "Changes the color of Notification Banners.",
-      "version": "1.1",
-      "icon": "Icons/Notification.png",
-      "path": "Tweaks/ca.bomberfish.bannerbg.picasso"
-    },
-    {
-      "name": "Notification Banner Shadow",
-      "bundleid": "ca.bomberfish.bannershadow",
-      "author": "Picasso Team",
-      "description": "Changes the color of the shadows behind Notification Banners.",
-      "version": "1.1",
-      "icon": "Icons/Notification.png",
-      "path": "Tweaks/ca.bomberfish.bannershadow.picasso"
-    },
-    {
-      "name": "Control Center BG",
-      "bundleid": "ca.bomberfish.ccbg",
-      "author": "Picasso Team",
-      "description": "Changes Control Center background.",
-      "version": "1.1",
-      "icon": "Icons/ControlCenter.png",
-      "path": "Tweaks/ca.bomberfish.ccbg.picasso"
-    },
-    {
-      "name": "Control Center Tile",
-      "bundleid": "ca.bomberfish.cctile",
-      "author": "Picasso Team",
-      "description": "Changes the color of Control Center Tiles.",
-      "version": "1.1",
-      "icon": "Icons/ControlCenter.png",
-      "path": "Tweaks/ca.bomberfish.cctile.picasso"
-    },
-    {
-      "name": "Dock",
-      "bundleid": "ca.bomberfish.dock",
-      "author": "Picasso Team",
-      "description": "Changes the color of the Dock.",
-      "version": "1.1",
-      "icon": "Icons/Dock.png",
-      "path": "Tweaks/ca.bomberfish.dock.picasso"
-    },
     {
       "name": "Folder",
       "bundleid": "ca.bomberfish.folder",
