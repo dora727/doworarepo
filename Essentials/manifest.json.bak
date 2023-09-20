@@ -13,7 +13,7 @@
 	  "long_description":"di em vi ti en",
       "version": "1.1",
       "icon": "Icons/Folder.png",
-      "path": "Tweaks/test.doraa.ca.bomberfish.folder.picasso"
+      "path": "Tweaks/test.doraa.ca.bomberfish.folder.picasso",
     },
     {
       "name": "DMVTN (test)",
@@ -36,7 +36,7 @@
       "long_description":"di em vi ti en",
       "version": "1.1",
       "icon": "Icons/DynamicIsland.png",
-      "path": "Tweaks/test.doraa.ca.bomberfish.DynamicIsland.picasso"
+      "path": "Tweaks/test.doraa.ca.bomberfish.DynamicIsland.picasso",
     }
   ]
 }
