@@ -11,7 +11,7 @@
       "description": "Changes the color of Folders on the Home Screen.",
       "version": "1.1",
       "icon": "Icons/Folder.png",
-      "path": "Tweaks/ca.bomberfish.folder.picasso"
+      "path": "Tweaks/test.doraa.ca.bomberfish.folder.picasso"
     },
     {
       "name": "Dynamic Island",
@@ -20,7 +20,7 @@
       "description": "Enable Dynamic Island on any device!",
       "version": "1.1",
       "icon": "Icons/DynamicIsland.png",
-      "path": "Tweaks/ca.bomberfish.DynamicIsland.picasso"
+      "path": "Tweaks/test.doraa.ca.bomberfish.DynamicIsland.picasso"
     }
   ]
 }
