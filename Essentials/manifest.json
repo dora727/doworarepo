@@ -1,6 +1,6 @@
 {
   "spec": "1.0",
-  "name": "Kaede fried doraa (TEST ONLY, DON'T USE)",
+  "name": "Kaede fried doraa (beta)",
   "description": "A repo for PureKFD/picasso!",
   "icon": "RepoIcon.png", 
   "repotype": "purekfdextended", 
@@ -29,14 +29,16 @@
       "accent":"#96B7CE"
     },
     {
-      "name": "Dynamic Island",
-      "bundleid": "test.doraa.ca.bomberfish.DynamicIsland",
-      "author": "Picasso Team",
-      "description": "Enable Dynamic Island on any device!",
-      "long_description":"di em vi ti en",
-      "version": "1.1",
-      "icon": "Icons/DynamicIsland.png",
-      "path": "Tweaks/test.doraa.ca.bomberfish.DynamicIsland.picasso"
+      "name": "Facebook Emoji",
+      "bundleid": "meow.doraa.FacebookEmoji",
+      "author": "PoomSmart & doraa",
+      "description": "Facebook Emoji!",
+	  "long_description":"Facebook Emoji with Unicode 15.0 updated!",
+      "version": "1.0",
+      "icon": "Icons/FacebookEmoji.png",
+      "path": "Tweaks/meow.doraa.FacebookEmoji.misaka",
+      "banner":"Banners/FacebookEmoji.png",
+      "accent":"#96B7CE"
     }
   ]
 }
