@@ -5,7 +5,6 @@
   "icon": "RepoIcon.png", 
   "repotype": "purekfdextended", 
   "packages": [
-
     {
       "name": "Facebook Emoji",
       "bundleid": "meow.doraa.FacebookEmoji",
