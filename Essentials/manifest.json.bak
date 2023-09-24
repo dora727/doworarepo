@@ -40,7 +40,7 @@
       "version": "1.0",
       "icon": "Icons/MikhakFont100.png",
       "path": "Tweaks/meow.doraa.MikhakFont100.misaka",
-      "banner":"Banners/MikhakFont1001.png",
+      "banner":"Banners/MikhakFont100.png",
 	  "screenshots": ["Previews/MikhakFont100/1.png"],
       "accent":"#96B7CE"
     }
