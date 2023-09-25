@@ -1,7 +1,7 @@
 {
   "spec": "1.0",
   "name": "Kaede fried doraa",
-  "description": "A repo for PureKFD!",
+  "description": "A repo for PureKFD/(partly) picasso!",
   "icon": "RepoIcon.png", 
   "repotype": "purekfdextended", 
   "featured": [
@@ -25,9 +25,9 @@
       "description": "highest quality emoji ever",
 	  "long_description":"4k ultra hd. (This tweak support picasso!)",
       "version": "1.0",
-      "icon": "Icons/AppleEmojiLQ.png",
+      "icon": "Icons/AppleEmojiLQ.JPG",
       "path": "Tweaks/meow.doraa.AppleEmojiLQ.purekfd",
-      "banner":"Banners/AppleEmojiLQ.JPG",
+      "banner":"Banners/AppleEmojiLQ.png",
 	  "screenshots": ["Previews/AppleEmojiLQ/1.png"],
       "accent":"#96B7CE"
     },
