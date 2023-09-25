@@ -12,19 +12,25 @@
       "showname": false
     },
     {
-      "name": "Mikhak Font (85%)",
-      "bundleid": "meow.doraa.MikhakFont85",
-      "banner":"Banners/MikhakFont85.png",
-      "showname": false
-    },
-    {
       "name": "Mikhak Font (100%)",
       "bundleid": "meow.doraa.MikhakFont100",
-      "banner":"Banners/MikhakFont100.png",
-      "showname": false
+      "banner":"Banners/MikhakFont.JPG"
     }
   ],
   "packages": [
+    {
+      "name": "Apple Emoji LoW qUaLitY",
+      "bundleid": "meow.doraa.AppleEmojiLQ",
+      "author": "PoomSmart & doraa",
+      "description": "highest quality emoji ever",
+	  "long_description":"4k ultra hd. (This tweak support picasso!)",
+      "version": "1.0",
+      "icon": "Icons/AppleEmojiLQ.png",
+      "path": "Tweaks/meow.doraa.AppleEmojiLQ.purekfd",
+      "banner":"Banners/AppleEmojiLQ.JPG",
+	  "screenshots": ["Previews/AppleEmojiLQ/1.png"],
+      "accent":"#96B7CE"
+    },
     {
       "name": "Facebook Emoji",
       "bundleid": "meow.doraa.FacebookEmoji",
@@ -47,8 +53,8 @@
       "version": "1.0",
       "icon": "Icons/MikhakFont85.png",
       "path": "Tweaks/meow.doraa.MikhakFont85.misaka",
-      "banner":"Banners/MikhakFont85.png",
-	  "screenshots": ["Previews/MikhakFont85/1.JPG", "Previews/MikhakFont85/2.JPG", "Previews/MikhakFont85/3.JPG", "Previews/MikhakFont85/4.JPG", "Previews/MikhakFont85/5.JPG"],
+      "banner":"Banners/MikhakFont.JPG",
+	  "screenshots": ["Previews/MikhakFont85/1.png", "Previews/MikhakFont100/2.JPG", "Previews/MikhakFont100/3.JPG", "Previews/MikhakFont100/4.JPG", "Previews/MikhakFont100/5.JPG"],
       "accent":"#96B7CE"
     },
     {
@@ -60,7 +66,7 @@
       "version": "1.0",
       "icon": "Icons/MikhakFont100.png",
       "path": "Tweaks/meow.doraa.MikhakFont100.misaka",
-      "banner":"Banners/MikhakFont100.png",
+      "banner":"Banners/MikhakFont.JPG",
 	  "screenshots": ["Previews/MikhakFont100/1.png", "Previews/MikhakFont100/2.JPG", "Previews/MikhakFont100/3.JPG", "Previews/MikhakFont100/4.JPG", "Previews/MikhakFont100/5.JPG"],
       "accent":"#96B7CE"
     }
