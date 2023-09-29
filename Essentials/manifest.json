@@ -4,6 +4,7 @@
   "description": "A repo for PureKFD/(partly) picasso!",
   "icon": "RepoIcon.png", 
   "repotype": "purekfdextended", 
+  "accent":"#96B7CE", 
   "featured": [
     {
       "name": "Facebook Emoji",
