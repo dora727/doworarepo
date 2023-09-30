@@ -46,7 +46,7 @@
       "version": "1.0",
       "icon": "Icons/AnimoAlt100.png",
       "path": "Tweaks/meow.doraa.AnimoAlt100.purekfd",
-      "banner":"Banners/meow.doraa.AnimoAlt100.png",
+      "banner":"Banners/AnimoAlt100.png",
 	  "screenshots": ["Previews/AnimoAlt100/1.png", "Previews/AnimoAlt100/2.png"],
       "accent":"#96B7CE"
     },
@@ -159,7 +159,7 @@
       "version": "1.0",
       "icon": "Icons/OdinRoundedFont100.png",
       "path": "Tweaks/meow.doraa.OdinRoundedFont100.purekfd",
-      "banner":"Banners/meow.doraa.OdinRoundedFont100.jpg",
+      "banner":"Banners/OdinRoundedFont100.jpg",
 	  "screenshots": ["Previews/OdinRoundedFont100/1.png", "Previews/OdinRoundedFont100/2.jpg", "Previews/OdinRoundedFont100/3.jpg", "Previews/OdinRoundedFont100/4.jpg", "Previews/OdinRoundedFont100/5.jpg"],
       "accent":"#96B7CE"
     },
