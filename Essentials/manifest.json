@@ -7,6 +7,12 @@
   "accent":"#96B7CE", 
   "featured": [
     {
+      "name": "Animo Alt",
+      "bundleid": "meow.doraa.AnimoAlt100",
+      "banner":"Banners/AnimoAlt100.png",
+      "showname": false
+    },
+    {
       "name": "Facebook Emoji",
       "bundleid": "meow.doraa.FacebookEmoji",
       "banner":"Banners/FacebookEmoji.png",
@@ -16,9 +22,34 @@
       "name": "Mikhak",
       "bundleid": "meow.doraa.MikhakFont100",
       "banner":"Banners/MikhakFont.JPG"
+    },
+    {
+      "name": "Odin Rounded",
+      "bundleid": "meow.doraa.OdinRoundedFont100",
+      "banner":"Banners/OdinRoundedFont100.jpg",
+      "showname": false
+    },
+    {
+      "name": "Trakya Rounded",
+      "bundleid": "meow.doraa.TrakyaRoundedFont100",
+      "banner":"Banners/TrakyaRoundedFont100.jpg",
+      "showname": false
     }
   ],
   "packages": [
+    {
+      "name": "Animo Alt font (100%)",
+      "bundleid": "meow.doraa.AnimoAlt100",
+      "author": "Alexman & doraa",
+      "description": "First for KFD!",
+	  "long_description":"(This package also support picasso!)",
+      "version": "1.0",
+      "icon": "Icons/AnimoAlt100.png",
+      "path": "Tweaks/meow.doraa.AnimoAlt100.purekfd",
+      "banner":"Banners/meow.doraa.AnimoAlt100.png",
+	  "screenshots": ["Previews/meow.doraa.AnimoAlt100/1.png", "Previews/meow.doraa.AnimoAlt100/2.png"],
+      "accent":"#96B7CE"
+    },
     {
       "name": "Apple Emoji LoW qUaLitY",
       "bundleid": "meow.doraa.AppleEmojiLQ",
@@ -117,6 +148,32 @@
       "path": "Tweaks/meow.doraa.MikhakClockFont100.iOS16.purekfd",
       "banner":"Banners/MikhakClockFont16.JPG",
 	  "screenshots": ["Previews/MikhakClockFont100iOS16/1.png", "Previews/MikhakClockFont100iOS16/2.png", "Previews/MikhakClockFont100iOS16/3.png"],
+      "accent":"#96B7CE"
+    },
+    {
+      "name": "Odin Rounded font (100%)",
+      "bundleid": "meow.doraa.OdinRoundedFont100",
+      "author": "Alexman & doraa",
+      "description": "First for KFD!",
+	  "long_description":"(This package also support picasso!)",
+      "version": "1.0",
+      "icon": "Icons/OdinRoundedFont100.png",
+      "path": "Tweaks/meow.doraa.OdinRoundedFont100.purekfd",
+      "banner":"Banners/meow.doraa.OdinRoundedFont100.jpg",
+	  "screenshots": ["Previews/meow.doraa.OdinRoundedFont100/1.png", "Previews/meow.doraa.OdinRoundedFont100/2.jpg", "Previews/meow.doraa.OdinRoundedFont100/3.jpg", "Previews/meow.doraa.OdinRoundedFont100/4.jpg", "Previews/meow.doraa.OdinRoundedFont100/5.jpg"],
+      "accent":"#96B7CE"
+    },
+    {
+      "name": "Trakya Rounded font (100%)",
+      "bundleid": "meow.doraa.TrakyaRoundedFont100",
+      "author": "Alexman & doraa",
+      "description": "First for KFD!",
+	  "long_description":"(This package also support picasso!)",
+      "version": "1.0",
+      "icon": "Icons/TrakyaRoundedFont100.png",
+      "path": "Tweaks/meow.doraa.TrakyaRoundedFont100.purekfd",
+      "banner":"Banners/meow.doraa.TrakyaRoundedFont100.jpg",
+	  "screenshots": ["Previews/meow.doraa.TrakyaRoundedFont100/1.png", "Previews/meow.doraa.TrakyaRoundedFont100/2.jpg", "Previews/meow.doraa.TrakyaRoundedFont100/3.jpg", "Previews/meow.doraa.TrakyaRoundedFont100/4.jpg"],
       "accent":"#96B7CE"
     }
   ]
