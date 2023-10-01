@@ -22,6 +22,13 @@
       "name": "Mikhak",
       "bundleid": "meow.doraa.MikhakFont100",
       "banner":"Banners/MikhakFont.JPG"
+      "showname": false
+    },
+    {
+      "name": "Modulus Pro",
+      "bundleid": "meow.doraa.ModulusPro100",
+      "banner":"Banners/ModulusPro100.jpg",
+      "showname": false
     },
     {
       "name": "Odin Rounded",
