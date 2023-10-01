@@ -198,14 +198,27 @@
     },
     {
       "name": "Brick",
-      "bundleid": "meow.doraa.Brick",
+      "bundleid": "Brick",
       "author": "doraa",
       "description": "brick your phone (rel 100%!!!111111)",
 	  "long_description":":fr:",
       "version": "7.2.7",
       "icon": "Icons/Brick.png",
-      "path": "Tweaks/meow.doraa.Brick.purekfd",
+      "path": "Tweaks/Brick.purekfd",
       "banner":"Banners/Brick.png",
+      "accent":"#96B7CE",
+	  "nosuggest": true
+    },
+    {
+      "name": "Panic",
+      "bundleid": "Panic",
+      "author": "doraa",
+      "description": "panic your phone (rel 100%!!!111111)",
+	  "long_description":":fr:",
+      "version": "7.2.7",
+      "icon": "Icons/Panic.png",
+      "path": "Tweaks/Panic.purekfd",
+      "banner":"Banners/Panic.png",
       "accent":"#96B7CE",
 	  "nosuggest": true
     }
