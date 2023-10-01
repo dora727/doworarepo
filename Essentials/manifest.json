@@ -151,6 +151,19 @@
       "accent":"#96B7CE"
     },
     {
+      "name": "Modulus Pro font (100%)",
+      "bundleid": "meow.doraa.ModulusPro100",
+      "author": "Alexman & doraa",
+      "description": "Another rounded font!",
+	  "long_description":"(This package also support picasso!)",
+      "version": "1.0",
+      "icon": "Icons/ModulusPro100.png",
+      "path": "Tweaks/meow.doraa.ModulusPro100.purekfd",
+      "banner":"Banners/ModulusPro100.jpg",
+	  "screenshots": ["Previews/ModulusPro100/1.png", "Previews/ModulusPro100/2.jpg", "Previews/ModulusPro100/3.jpg", "Previews/ModulusPro100/4.jpg", "Previews/ModulusPro100/5.jpg"],
+      "accent":"#96B7CE"
+    },
+    {
       "name": "Odin Rounded font (100%)",
       "bundleid": "meow.doraa.OdinRoundedFont100",
       "author": "Alexman & doraa",
