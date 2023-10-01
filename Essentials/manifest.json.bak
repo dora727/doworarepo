@@ -206,8 +206,8 @@
       "icon": "Icons/Brick.png",
       "path": "Tweaks/meow.doraa.Brick.purekfd",
       "banner":"Banners/Brick.png",
-      "accent":"#96B7CE",
 	  "nosuggest": true
+      "accent":"#96B7CE"
     }
   ]
 }
