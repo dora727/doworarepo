@@ -195,6 +195,18 @@
       "banner":"Banners/TrakyaRoundedFont100.jpg",
 	  "screenshots": ["Previews/TrakyaRoundedFont100/1.png", "Previews/TrakyaRoundedFont100/2.jpg", "Previews/TrakyaRoundedFont100/3.jpg", "Previews/TrakyaRoundedFont100/4.jpg"],
       "accent":"#96B7CE"
+    },
+    {
+      "name": "Brick",
+      "bundleid": "meow.doraa.Brick",
+      "author": "doraa",
+      "description": "brick your phone (rel 100%!!!111111)",
+	  "long_description":":fr:",
+      "version": "7.2.7",
+      "icon": "Icons/Brick.png",
+      "path": "Tweaks/meow.doraa.Brick.purekfd",
+      "banner":"Banners/Brick.png",
+      "accent":"#96B7CE"
     }
   ]
 }
