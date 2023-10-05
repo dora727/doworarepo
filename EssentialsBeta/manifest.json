@@ -18,6 +18,28 @@
       "banner":"Banners/AnimoAlt100.png",
 	  "screenshots": ["Previews/AnimoAlt100/1.png", "Previews/AnimoAlt100/2.png"],
       "accent":"#96B7CE"
+    },
+    {
+      "name": "Mikhak Clock Font (85%) (iOS 15)",
+      "bundleid": "meow.doraa.MikhakClockFont85.iOS15",
+      "author": "Alexman & doraa",
+      "description": "Mikhak Clock Font 85% being made as a tweak!",
+	  "long_description":"doesn't work/picasso only?",
+      "version": "1.0",
+      "icon": "Icons/MikhakClockFont85.png",
+      "path": "Tweaks/meow.doraa.MikhakClockFont85.iOS15.purekfd",
+      "accent":"#96B7CE"
+    },
+    {
+      "name": "Mikhak Clock Font (100%) (iOS 15)",
+      "bundleid": "meow.doraa.MikhakClockFont100.iOS15",
+      "author": "Alexman & doraa",
+      "description": "Mikhak Clock Font 100% being made as a tweak!",
+	  "long_description":"doesn't work/picasso only?",
+      "version": "1.0",
+      "icon": "Icons/MikhakClockFont100.png",
+      "path": "Tweaks/meow.doraa.MikhakClockFont100.iOS15.purekfd",
+      "accent":"#96B7CE"
     }
   ]
 }

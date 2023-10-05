@@ -97,17 +97,6 @@
       "accent":"#96B7CE"
     },
     {
-      "name": "Mikhak Clock Font (85%) (iOS 15)",
-      "bundleid": "meow.doraa.MikhakClockFont85.iOS15",
-      "author": "Alexman & doraa",
-      "description": "Mikhak Clock Font 85% being made as a tweak!",
-	  "long_description":"UNTESTED. Please test and tell me is it work or doesn't. Thx (This package also support picasso!)",
-      "version": "1.0",
-      "icon": "Icons/MikhakClockFont85.png",
-      "path": "Tweaks/meow.doraa.MikhakClockFont85.iOS15.purekfd",
-      "accent":"#96B7CE"
-    },
-    {
       "name": "Mikhak Clock Font (85%) (iOS 16)",
       "bundleid": "meow.doraa.MikhakClockFont85.iOS16",
       "author": "Alexman & doraa",
@@ -131,17 +120,6 @@
       "path": "Tweaks/meow.doraa.MikhakFont100.misaka",
       "banner":"Banners/MikhakFont.JPG",
 	  "screenshots": ["Previews/MikhakFont100/1.png", "Previews/MikhakFont100/2.JPG", "Previews/MikhakFont100/3.JPG", "Previews/MikhakFont100/4.JPG", "Previews/MikhakFont100/5.JPG"],
-      "accent":"#96B7CE"
-    },
-    {
-      "name": "Mikhak Clock Font (100%) (iOS 15)",
-      "bundleid": "meow.doraa.MikhakClockFont100.iOS15",
-      "author": "Alexman & doraa",
-      "description": "Mikhak Clock Font 100% being made as a tweak!",
-	  "long_description":"UNTESTED. Please test and tell me is it work or doesn't. Thx (This package also support picasso!)",
-      "version": "1.0",
-      "icon": "Icons/MikhakClockFont100.png",
-      "path": "Tweaks/meow.doraa.MikhakClockFont100.iOS15.purekfd",
       "accent":"#96B7CE"
     },
     {
