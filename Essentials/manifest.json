@@ -37,6 +37,12 @@
       "showname": false
     },
     {
+      "name": "Rhino",
+      "bundleid": "meow.doraa.RhinoFont100",
+      "banner":"Banners/RhinoFont.png",
+      "showname": false
+    },
+    {
       "name": "Trakya Rounded",
       "bundleid": "meow.doraa.TrakyaRoundedFont100",
       "banner":"Banners/TrakyaRoundedFont100.jpg",
