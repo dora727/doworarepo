@@ -182,7 +182,7 @@
       "version": "1.0",
       "icon": "Icons/OneUI6Emoji.png",
       "path": "Tweaks/meow.doraa.OneUI6Emoji.purekfd",
-      "banner":"Banners/OneUI6Emoji.jpg",
+      "banner":"Banners/OneUI6Emoji.png",
 	  "screenshots": ["Previews/OneUI6Emoji/1.png"],
       "accent":"#96B7CE"
     },
