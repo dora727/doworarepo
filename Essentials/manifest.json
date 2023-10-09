@@ -1,7 +1,7 @@
 {
   "spec": "1.0",
-  "name": "Kaede fried doraa",
-  "description": "A repo for PureKFD/picasso!",
+  "name": "Kaede :3",
+  "description": "A KFD/MDC repo for PureKFD/picasso!",
   "icon": "RepoIcon.png", 
   "repotype": "purekfdextended", 
   "accent":"#96B7CE", 
@@ -57,19 +57,6 @@
   ],
   "packages": [
     {
-      "name": "Animo Alt font (100%)",
-      "bundleid": "meow.doraa.AnimoAlt100",
-      "author": "Alexman & doraa",
-      "description": "First for KFD!",
-	  "long_description":"Font by Alexman, converted to tweak by doraa.",
-      "version": "1.0",
-      "icon": "Icons/AnimoAlt100.png",
-      "path": "Tweaks/meow.doraa.AnimoAlt100.purekfd",
-      "banner":"Banners/AnimoAlt100.png",
-	  "screenshots": ["Previews/AnimoAlt100/1.png", "Previews/AnimoAlt100/2.png"],
-      "accent":"#96B7CE"
-    },
-    {
       "name": "Apple Emoji LoW qUaLitY",
       "bundleid": "meow.doraa.AppleEmojiLQ",
       "author": "PoomSmart & doraa",
@@ -96,16 +83,16 @@
       "accent":"#96B7CE"
     },
     {
-      "name": "Mikhak font (85%)",
-      "bundleid": "meow.doraa.MikhakFont85",
-      "author": "Alexman & doraa",
-      "description": "Mikhak Font 85% as a tweak!",
-	  "long_description":"Font by Alexman, converted to tweak by doraa. Banner, Preview credit goes to Alexman.",
-      "version": "1.1",
-      "icon": "Icons/MikhakFont85.png",
-      "path": "Tweaks/meow.doraa.MikhakFont85.purekfd",
-      "banner":"Banners/MikhakFont.JPG",
-	  "screenshots": ["Previews/MikhakFont85/1.png", "Previews/MikhakFont100/2.JPG", "Previews/MikhakFont100/3.JPG", "Previews/MikhakFont100/4.JPG", "Previews/MikhakFont100/5.JPG"],
+      "name": "OneUI 6.0 Emoji (beta3)",
+      "bundleid": "meow.doraa.OneUI6Emoji",
+      "author": "PoomSmart & doraa",
+      "description": "Finally beta 3!",
+	  "long_description":"Emoji by PoomSmart, converted to tweak by doraa.",
+      "version": "1.0",
+      "icon": "Icons/OneUI6Emoji.png",
+      "path": "Tweaks/meow.doraa.OneUI6Emoji.purekfd",
+      "banner":"Banners/OneUI6Emoji.png",
+	  "screenshots": ["Previews/OneUI6Emoji/1.png"],
       "accent":"#96B7CE"
     },
     {
@@ -122,19 +109,6 @@
       "accent":"#96B7CE"
     },
     {
-      "name": "Mikhak font (100%)",
-      "bundleid": "meow.doraa.MikhakFont100",
-      "author": "Alexman & doraa",
-      "description": "Mikhak Font 100% as a tweak!",
-	  "long_description":"Font by Alexman, converted to tweak by doraa. Banner, Preview credit goes to Alexman.",
-      "version": "1.1",
-      "icon": "Icons/MikhakFont100.png",
-      "path": "Tweaks/meow.doraa.MikhakFont100.purekfd",
-      "banner":"Banners/MikhakFont.JPG",
-	  "screenshots": ["Previews/MikhakFont100/1.png", "Previews/MikhakFont100/2.JPG", "Previews/MikhakFont100/3.JPG", "Previews/MikhakFont100/4.JPG", "Previews/MikhakFont100/5.JPG"],
-      "accent":"#96B7CE"
-    },
-    {
       "name": "Mikhak Clock Font (100%) (iOS 16)",
       "bundleid": "meow.doraa.MikhakClockFont100.iOS16",
       "author": "Alexman & doraa",
@@ -145,6 +119,45 @@
       "path": "Tweaks/meow.doraa.MikhakClockFont100.iOS16.purekfd",
       "banner":"Banners/MikhakClockFont16.JPG",
 	  "screenshots": ["Previews/MikhakClockFont100iOS16/1.png", "Previews/MikhakClockFont100iOS16/2.png", "Previews/MikhakClockFont100iOS16/3.png"],
+      "accent":"#96B7CE"
+    },
+    {
+      "name": "Animo Alt font (100%)",
+      "bundleid": "meow.doraa.AnimoAlt100",
+      "author": "Alexman & doraa",
+      "description": "First for KFD!",
+	  "long_description":"Font by Alexman, converted to tweak by doraa.",
+      "version": "1.0",
+      "icon": "Icons/AnimoAlt100.png",
+      "path": "Tweaks/meow.doraa.AnimoAlt100.purekfd",
+      "banner":"Banners/AnimoAlt100.png",
+	  "screenshots": ["Previews/AnimoAlt100/1.png", "Previews/AnimoAlt100/2.png"],
+      "accent":"#96B7CE"
+    },
+    {
+      "name": "Mikhak font (85%)",
+      "bundleid": "meow.doraa.MikhakFont85",
+      "author": "Alexman & doraa",
+      "description": "Mikhak Font 85% as a tweak!",
+	  "long_description":"Font by Alexman, converted to tweak by doraa. Banner, Preview credit goes to Alexman.",
+      "version": "1.1",
+      "icon": "Icons/MikhakFont85.png",
+      "path": "Tweaks/meow.doraa.MikhakFont85.purekfd",
+      "banner":"Banners/MikhakFont.JPG",
+	  "screenshots": ["Previews/MikhakFont85/1.png", "Previews/MikhakFont100/2.JPG", "Previews/MikhakFont100/3.JPG", "Previews/MikhakFont100/4.JPG", "Previews/MikhakFont100/5.JPG"],
+      "accent":"#96B7CE"
+    },
+    {
+      "name": "Mikhak font (100%)",
+      "bundleid": "meow.doraa.MikhakFont100",
+      "author": "Alexman & doraa",
+      "description": "Mikhak Font 100% as a tweak!",
+	  "long_description":"Font by Alexman, converted to tweak by doraa. Banner, Preview credit goes to Alexman.",
+      "version": "1.1",
+      "icon": "Icons/MikhakFont100.png",
+      "path": "Tweaks/meow.doraa.MikhakFont100.purekfd",
+      "banner":"Banners/MikhakFont.JPG",
+	  "screenshots": ["Previews/MikhakFont100/1.png", "Previews/MikhakFont100/2.JPG", "Previews/MikhakFont100/3.JPG", "Previews/MikhakFont100/4.JPG", "Previews/MikhakFont100/5.JPG"],
       "accent":"#96B7CE"
     },
     {
@@ -171,19 +184,6 @@
       "path": "Tweaks/meow.doraa.OdinRoundedFont100.purekfd",
       "banner":"Banners/OdinRoundedFont100.jpg",
 	  "screenshots": ["Previews/OdinRoundedFont100/1.png", "Previews/OdinRoundedFont100/2.jpg", "Previews/OdinRoundedFont100/3.jpg", "Previews/OdinRoundedFont100/4.jpg", "Previews/OdinRoundedFont100/5.jpg"],
-      "accent":"#96B7CE"
-    },
-    {
-      "name": "OneUI 6.0 Emoji (beta3)",
-      "bundleid": "meow.doraa.OneUI6Emoji",
-      "author": "PoomSmart & doraa",
-      "description": "Finally beta 3!",
-	  "long_description":"Emoji by PoomSmart, converted to tweak by doraa.",
-      "version": "1.0",
-      "icon": "Icons/OneUI6Emoji.png",
-      "path": "Tweaks/meow.doraa.OneUI6Emoji.purekfd",
-      "banner":"Banners/OneUI6Emoji.png",
-	  "screenshots": ["Previews/OneUI6Emoji/1.png"],
       "accent":"#96B7CE"
     },
     {
