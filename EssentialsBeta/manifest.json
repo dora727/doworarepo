@@ -43,6 +43,19 @@
       "path": "Tweaks/meow.doraa.MikhakClockFont100.iOS15.purekfd",
       "accent":"#96B7CE",
 	  "nosuggest": true
+    },
+    {
+      "name": "Mikhak font (100%)",
+      "bundleid": "meow.doraa.MikhakFont100",
+      "author": "Alexman & doraa",
+      "description": "Mikhak Font 100% as a tweak!",
+	  "long_description":"Font by Alexman, converted to tweak by doraa. Banner, Preview credit goes to Alexman.",
+      "version": "1.2",
+      "icon": "Icons/MikhakFont100.png",
+      "path": "Tweaks/meow.doraa.MikhakFont100.purekfd",
+      "banner":"Banners/MikhakFont.JPG",
+	  "screenshots": ["Previews/MikhakFont100/1.png", "Previews/MikhakFont100/2.JPG", "Previews/MikhakFont100/3.JPG", "Previews/MikhakFont100/4.JPG", "Previews/MikhakFont100/5.JPG"],
+      "accent":"#96B7CE"
     }
   ]
 }
