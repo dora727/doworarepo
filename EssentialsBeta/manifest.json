@@ -1,10 +1,10 @@
 {
   "spec": "1.0",
-  "name": "Kaede fried doraa (beta)",
+  "name": "Kaede (楓) :3 (beta)",
   "description": "for some tweaks that under testing/doesn't work yet",
   "icon": "RepoIcon.png", 
   "repotype": "purekfdextended", 
-  "accent":"#BAD0DF", 
+  "accent":"#96B7CE", 
   "packages": [
     {
       "name": "Animo Alt font (100%)",
@@ -17,7 +17,8 @@
       "path": "Tweaks/meow.doraa.AnimoAlt100.purekfd",
       "banner":"Banners/AnimoAlt100.png",
 	  "screenshots": ["Previews/AnimoAlt100/1.png", "Previews/AnimoAlt100/2.png"],
-      "accent":"#BAD0DF"
+      "accent":"#96B7CE",
+	  "nosuggest": true
     },
     {
       "name": "Mikhak Clock Font (85%) (iOS 15)",
@@ -28,7 +29,8 @@
       "version": "1.0",
       "icon": "Icons/MikhakClockFont85.png",
       "path": "Tweaks/meow.doraa.MikhakClockFont85.iOS15.purekfd",
-      "accent":"#BAD0DF"
+      "accent":"#96B7CE",
+	  "nosuggest": true
     },
     {
       "name": "Mikhak Clock Font (100%) (iOS 15)",
@@ -39,7 +41,8 @@
       "version": "1.0",
       "icon": "Icons/MikhakClockFont100.png",
       "path": "Tweaks/meow.doraa.MikhakClockFont100.iOS15.purekfd",
-      "accent":"#BAD0DF"
+      "accent":"#96B7CE",
+	  "nosuggest": true
     }
   ]
 }
