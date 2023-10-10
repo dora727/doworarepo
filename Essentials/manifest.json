@@ -104,6 +104,8 @@
       "version": "1.0.1",
       "icon": "Icons/MikhakClockFont85.png",
       "path": "Tweaks/meow.doraa.MikhakClockFont85.iOS15.purekfd",
+      "banner":"Banners/MikhakClockFont15.png",
+	  "screenshots": ["Previews/MikhakClockFont85iOS15/1.png"],
       "accent":"#96B7CE"
     },
     {
@@ -128,6 +130,8 @@
       "version": "1.0.1",
       "icon": "Icons/MikhakClockFont100.png",
       "path": "Tweaks/meow.doraa.MikhakClockFont100.iOS15.purekfd",
+      "banner":"Banners/MikhakClockFont15.png",
+	  "screenshots": ["Previews/MikhakClockFont100iOS15/1.png"],
       "accent":"#96B7CE"
     },
     {
