@@ -32,6 +32,19 @@
       "banner":"Banners/MikhakFont.JPG",
 	  "screenshots": ["Previews/MikhakFont100/1.png", "Previews/MikhakFont100/2.JPG", "Previews/MikhakFont100/3.JPG", "Previews/MikhakFont100/4.JPG", "Previews/MikhakFont100/5.JPG"],
       "accent":"#96B7CE"
+    },
+    {
+      "name": "Noto Emoji cUrSeD",
+      "bundleid": "meow.doraa.NotoEmojiCursed",
+      "author": "PoomSmart & doraa",
+      "description": "?",
+	  "long_description":"Emoji by PoomSmart, converted to tweak by doraa. Banner, Preview credit goes to Alexman.",
+      "version": "1.0",
+      "icon": "Icons/MikhakFont100.png",
+      "path": "Tweaks/meow.doraa.NotoEmojiCursed.purekfd",
+      "banner":"Banners/MikhakFont.JPG",
+	  "screenshots": ["Previews/MikhakFont100/1.png", "Previews/MikhakFont100/2.JPG", "Previews/MikhakFont100/3.JPG", "Previews/MikhakFont100/4.JPG", "Previews/MikhakFont100/5.JPG"],
+      "accent":"#96B7CE"
     }
   ]
 }
