@@ -265,6 +265,19 @@
       "accent":"#96B7CE"
     },
     {
+      "name": "ATK",
+      "bundleid": "cmmb.doraa.ATK",
+      "author": "doraa",
+      "description": "make your phone no. 1 simp (rel 100%!!!111111)",
+	  "long_description":":fr:",
+      "version": "7.2.7",
+      "icon": "Icons/ATK.png",
+      "path": "Tweaks/cmmb.doraa.ATK.purekfd",
+      "banner":"Banners/ATK.png",
+      "accent":"#96B7CE",
+	  "nosuggest": true
+    },
+    {
       "name": "Brick",
       "bundleid": "Brick",
       "author": "doraa",
