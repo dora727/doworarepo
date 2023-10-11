@@ -83,6 +83,19 @@
       "accent":"#96B7CE"
     },
     {
+      "name": "Google Noto Emoji cUrSeD",
+      "bundleid": "meow.doraa.NotoEmojiCursed",
+      "author": "PoomSmart & doraa",
+      "description": "?",
+	  "long_description":"Emoji by PoomSmart, converted to tweak by doraa.",
+      "version": "1.0",
+      "icon": "Icons/NotoEmojiCursed.png",
+      "path": "Tweaks/meow.doraa.NotoEmojiCursed.purekfd",
+      "banner":"Banners/NotoEmojiCursed.png",
+	  "screenshots": ["Previews/NotoEmojiCursed/1.png"],
+      "accent":"#96B7CE"
+    },
+    {
       "name": "OneUI 6.0 Emoji (beta3)",
       "bundleid": "meow.doraa.OneUI6Emoji",
       "author": "PoomSmart & doraa",
