@@ -7,6 +7,19 @@
   "accent":"#96B7CE", 
   "packages": [
     {
+      "name": "MelosoPlus",
+      "bundleid": "meow.doraa.MelosoPlus",
+      "author": "Alexman & doraa",
+      "description": "h",
+	  "long_description":":fr:",
+      "version": "1.0",
+      "icon": "Icons/ATV.png",
+      "path": "Tweaks/cmmb.doraa.MelosoPlus.purekfd",
+      "banner":"Banners/ATV.png",
+      "accent":"#96B7CE",
+	  "nosuggest": true
+    },
+    {
       "name": "ATK",
       "bundleid": "cmmb.doraa.ATK",
       "author": "doraa",
