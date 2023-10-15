@@ -109,6 +109,32 @@
       "accent":"#96B7CE"
     },
     {
+      "name": "OpenMoji (Unicode 14.0)",
+      "bundleid": "meow.doraa.OpenMoji",
+      "author": "PoomSmart & doraa",
+      "description": "An open souce emoji font!",
+	  "long_description":"This Emoji font isn't updated to Unicode 15.0. Emoji by PoomSmart, converted to tweak by doraa.",
+      "version": "1.0",
+      "icon": "Icons/OpenMoji.png",
+      "path": "Tweaks/meow.doraa.OpenMoji.purekfd",
+      "banner":"Banners/OpenMoji.png",
+	  "screenshots": ["Previews/OpenMoji/1.png"],
+      "accent":"#96B7CE"
+    },
+    {
+      "name": "Twemoji (partly Unicode 15.0)",
+      "bundleid": "meow.doraa.Twemoji",
+      "author": "PoomSmart & doraa",
+      "description": "Every Discord & Twitter (X) user knows!",
+	  "long_description":"Only updated emojis are updated to Unicode 15.0, no new emojis with Twemoji style, but it'll appears as Apple Emoji instead of square. Emoji by PoomSmart, converted to tweak by doraa.",
+      "version": "1.0",
+      "icon": "Icons/Twemoji.png",
+      "path": "Tweaks/meow.doraa.Twemoji.purekfd",
+      "banner":"Banners/Twemoji.png",
+	  "screenshots": ["Previews/Twemoji/1.png", "Previews/Twemoji/2.png", "Previews/Twemoji/3.png"],
+      "accent":"#96B7CE"
+    },
+    {
       "name": "Mikhak Clock Font (85%) (iOS 15)",
       "bundleid": "meow.doraa.MikhakClockFont85.iOS15",
       "author": "Alexman & doraa",
