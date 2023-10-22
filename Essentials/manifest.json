@@ -43,6 +43,12 @@
       "showname": false
     },
     {
+      "name": "OpenMoji",
+      "bundleid": "meow.doraa.OpenMoji",
+      "banner":"Banners/OpenMoji.png",
+      "showname": false
+    },
+    {
       "name": "Rhino",
       "bundleid": "meow.doraa.RhinoFont100",
       "banner":"Banners/RhinoFont.png",
@@ -53,7 +59,13 @@
       "bundleid": "meow.doraa.TrakyaRoundedFont100",
       "banner":"Banners/TrakyaRoundedFont100.jpg",
       "showname": false
-    }
+    },
+    {
+      "name": "Twemoji",
+      "bundleid": "meow.doraa.Twemoji",
+      "banner":"Banners/Twemoji.png",
+      "showname": false
+    },
   ],
   "packages": [
     {
