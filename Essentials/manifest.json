@@ -108,10 +108,10 @@
       "accent":"#96B7CE"
     },
     {
-      "name": "OneUI 6.0 Emoji (beta3)",
+      "name": "OneUI 6.0 Emoji (beta7)",
       "bundleid": "meow.doraa.OneUI6Emoji",
       "author": "PoomSmart & doraa",
-      "description": "Finally beta 3!",
+      "description": "samung",
 	  "long_description":"Emoji by PoomSmart, converted to tweak by doraa.",
       "version": "1.0",
       "icon": "Icons/OneUI6Emoji.png",
