@@ -7,15 +7,22 @@
   "accent":"#96B7CE", 
   "packages": [
     {
+      "name": "Fluent Color Emoji (partly Unicode 15) (temp)",
+      "bundleid": "temp.doraa.FluentColorEmoji",
+      "author": "PoomSmart & doraa",
+      "description": "temp only, will delete after EPOS update",
+      "version": "1.0",
+      "path": "Tweaks/temp.doraa.FluentColorEmoji.purekfd",
+      "accent":"#96B7CE",
+	  "nosuggest": true
+    },
+    {
       "name": "MelosoPlus",
       "bundleid": "meow.doraa.MelosoPlus",
       "author": "Alexman & doraa",
-      "description": "h",
-	  "long_description":":fr:",
+      "description": "more files for testing",
       "version": "1.0",
-      "icon": "Icons/ATV.png",
       "path": "Tweaks/meow.doraa.MelosoPlus.purekfd",
-      "banner":"Banners/ATV.png",
       "accent":"#96B7CE",
 	  "nosuggest": true
     },
