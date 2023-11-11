@@ -31,6 +31,18 @@
 	  "nosuggest": true
     },
     {
+      "name": "osu! hit circle Passcode",
+      "bundleid": "meow.doraa.MelosoPlus",
+      "author": "doraa",
+      "description": "click the circle! to unlock your phone",
+      "version": "1.0",
+      "icon": "Icons/osuPasscode.png",
+      "path": "Tweaks/meow.doraa.osuPasscode.purekfd",
+      "banner":"Banners/osuPasscode.png",
+      "accent":"#96B7CE",
+	  "nosuggest": true
+    },
+    {
       "name": "ATK",
       "bundleid": "cmmb.doraa.ATK",
       "author": "doraa",
