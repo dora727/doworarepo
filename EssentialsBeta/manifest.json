@@ -32,7 +32,7 @@
     },
     {
       "name": "osu! hit circle Passcode",
-      "bundleid": "meow.doraa.MelosoPlus",
+      "bundleid": "meow.doraa.osuPasscode",
       "author": "doraa",
       "description": "click the circle! to unlock your phone",
       "version": "1.0",
