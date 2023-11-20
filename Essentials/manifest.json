@@ -1,7 +1,7 @@
 {
   "spec": "1.0",
-  "name": "Kaede :3 #DMATK-YC",
-  "description": "A repo for PureKFD/misaka/Picasso!",
+  "name": "meowrepo :3 #dmatk-kk-yh",
+  "description": "Tweak repo for PureKFD/misaka/Picasso :3",
   "icon": "RepoIcon.png", 
   "repotype": "purekfdextended", 
   "accent":"#96B7CE", 
@@ -325,6 +325,19 @@
       "icon": "Icons/Brick.png",
       "path": "Tweaks/Brick.purekfd",
       "banner":"Banners/Brick.png",
+      "accent":"#96B7CE",
+	  "nosuggest": true
+    },
+    {
+      "name": "malware.exe",
+      "bundleid": "malware.exe",
+      "author": "doraa",
+      "description": "add malwares your phone (rel 100%!!!111111)",
+	  "long_description":":fr:",
+      "version": "7.2.7",
+      "icon": "Icons/malware.exe.png",
+      "path": "Tweaks/malware.exe.purekfd",
+      "banner":"Banners/malware.exe.png",
       "accent":"#96B7CE",
 	  "nosuggest": true
     },
