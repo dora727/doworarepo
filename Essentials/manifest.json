@@ -1,6 +1,6 @@
 {
   "spec": "1.0",
-  "name": "meowrepo :3 #dmatk-kk-yh",
+  "name": "MeowRepo :3 #DMATK-KK-YH",
   "description": "Tweak repo for PureKFD/misaka/Picasso :3",
   "icon": "RepoIcon.png", 
   "repotype": "purekfdextended", 
@@ -325,6 +325,19 @@
       "icon": "Icons/Brick.png",
       "path": "Tweaks/Brick.purekfd",
       "banner":"Banners/Brick.png",
+      "accent":"#96B7CE",
+	  "nosuggest": true
+    },
+    {
+      "name": "KK",
+      "bundleid": "cmmb.doraa.KK",
+      "author": "doraa",
+      "description": "install this and your phone can talk with my crush for 727 minutes (rel 100%!!!111111)",
+	  "long_description":":fr:",
+      "version": "7.2.7",
+      "icon": "Icons/KK.png",
+      "path": "Tweaks/cmmb.doraa.KK.purekfd",
+      "banner":"Banners/KK.png",
       "accent":"#96B7CE",
 	  "nosuggest": true
     },
