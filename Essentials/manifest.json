@@ -7,6 +7,12 @@
   "accent":"#96B7CE", 
   "featured": [
     {
+      "name": "osu! Passcode",
+      "bundleid": "meow.doraa.osuPasscode",
+      "banner":"Banners/osuPasscode.png",
+      "showname": false
+    },
+    {
       "name": "Animo Alt",
       "bundleid": "meow.doraa.AnimoAlt100",
       "banner":"Banners/AnimoAlt100.png",
@@ -65,7 +71,7 @@
       "bundleid": "meow.doraa.Twemoji",
       "banner":"Banners/Twemoji.png",
       "showname": false
-    },
+    }
   ],
   "packages": [
     {
