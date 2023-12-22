@@ -150,7 +150,7 @@
       "description": "An open souce emoji font!",
 	  "long_description":"Emoji by PoomSmart, converted to tweak by doraa.",
 	  "category": "Emoji",
-      "version": "1.1",
+      "version": "1.2",
       "icon": "Icons/OpenMoji.png",
       "path": "Tweaks/meow.doraa.OpenMoji.purekfd",
       "banner":"Banners/OpenMoji.png",
