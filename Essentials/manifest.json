@@ -69,6 +69,18 @@
   ],
   "packages": [
     {
+      "name": "osu! hit circle Passcode",
+      "bundleid": "meow.doraa.osuPasscode",
+      "author": "doraa",
+      "description": "click the circle! to unlock your phone",
+      "version": "1.0",
+      "icon": "Icons/osuPasscode.png",
+      "path": "Tweaks/meow.doraa.osuPasscode.purekfd",
+      "banner":"Banners/osuPasscode.png",
+	  "screenshots": ["Previews/osuPasscode/1.png"],
+      "accent":"#96B7CE",
+    },
+    {
       "name": "Apple Emoji LoW qUaLitY",
       "bundleid": "meow.doraa.AppleEmojiLQ",
       "author": "PoomSmart & doraa",
