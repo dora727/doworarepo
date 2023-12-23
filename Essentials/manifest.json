@@ -19,12 +19,6 @@
       "showname": false
     },
     {
-      "name": "Facebook Emoji",
-      "bundleid": "meow.doraa.FacebookEmoji",
-      "banner":"Banners/FacebookEmoji.png",
-      "showname": false
-    },
-    {
       "name": "Mikhak",
       "bundleid": "meow.doraa.MikhakFont100",
       "banner":"Banners/MikhakFont.JPG",
@@ -49,12 +43,6 @@
       "showname": false
     },
     {
-      "name": "OpenMoji",
-      "bundleid": "meow.doraa.OpenMoji",
-      "banner":"Banners/OpenMoji.png",
-      "showname": false
-    },
-    {
       "name": "Rhino",
       "bundleid": "meow.doraa.RhinoFont100",
       "banner":"Banners/RhinoFont.png",
@@ -74,6 +62,58 @@
     }
   ],
   "packages": [
+    {
+      "name": "osu! argon hit circle Passcode (Blue)",
+      "bundleid": "meow.doraa.osuargonPasscodeBlue",
+      "author": "doraa",
+      "description": "osu!lazer default skin!",
+	  "category": "Passcode",
+      "version": "1.0",
+      "icon": "Icons/osuargonPasscodeBlue.png",
+      "path": "Tweaks/meow.doraa.osuargonPasscodeBlue.purekfd",
+      "banner":"Banners/osuargonPasscodeBlue.png",
+	  "screenshots": ["Previews/osuargonPasscodeBlue/1.png"],
+      "accent":"#96B7CE",
+    },
+    {
+      "name": "osu! argon hit circle Passcode (Green)",
+      "bundleid": "meow.doraa.osuargonPasscodeGreen",
+      "author": "doraa",
+      "description": "osu!lazer default skin!",
+	  "category": "Passcode",
+      "version": "1.0",
+      "icon": "Icons/osuargonPasscodeGreen.png",
+      "path": "Tweaks/meow.doraa.osuargonPasscodeGreen.purekfd",
+      "banner":"Banners/osuargonPasscodeGreen.png",
+	  "screenshots": ["Previews/osuargonPasscodeGreen/1.png"],
+      "accent":"#96B7CE",
+    },
+    {
+      "name": "osu! argon hit circle Passcode (Red)",
+      "bundleid": "meow.doraa.osuargonPasscodeRed",
+      "author": "doraa",
+      "description": "osu!lazer default skin!",
+	  "category": "Passcode",
+      "version": "1.0",
+      "icon": "Icons/osuargonPasscodeRed.png",
+      "path": "Tweaks/meow.doraa.osuargonPasscodeRed.purekfd",
+      "banner":"Banners/osuargonPasscodeRed.png",
+	  "screenshots": ["Previews/osuargonPasscodeRed/1.png"],
+      "accent":"#96B7CE",
+    },
+    {
+      "name": "osu! argon hit circle Passcode (Yellow)",
+      "bundleid": "meow.doraa.osuargonPasscodeYellow",
+      "author": "doraa",
+      "description": "osu!lazer default skin!",
+	  "category": "Passcode",
+      "version": "1.0",
+      "icon": "Icons/osuargonPasscodeYellow.png",
+      "path": "Tweaks/meow.doraa.osuargonPasscodeYellow.purekfd",
+      "banner":"Banners/osuargonPasscodeYellow.png",
+	  "screenshots": ["Previews/osuargonPasscodeYellow/1.png"],
+      "accent":"#96B7CE",
+    },
     {
       "name": "osu! hit circle Passcode",
       "bundleid": "meow.doraa.osuPasscode",
