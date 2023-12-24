@@ -7,6 +7,19 @@
   "accent":"#96B7CE", 
   "packages": [
     {
+      "name": "osu! argon Passcode",
+      "bundleid": "meow.doraa.osuargonPasscode",
+      "author": "doraa",
+      "description": "merged!",
+	  "category": "Passcode",
+      "version": "1.1",
+      "icon": "Icons/osuargonPasscodeRed.png",
+      "path": "Tweaks/meow.doraa.osuargonPasscode.misaka",
+      "banner":"Banners/osuargonPasscode.png",
+      "accent":"#96B7CE",
+	  "nosuggest": true
+    },
+    {
       "name": "osu! argon Passcode (Red)",
       "bundleid": "meow.doraa.osuargonPasscodeRed",
       "author": "doraa",
