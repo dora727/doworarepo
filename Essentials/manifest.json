@@ -247,7 +247,7 @@
       "description": "Mikhak Font as a tweak!",
 	  "long_description":"Choose your font size at Preference. Font by Alexman, converted to tweak by doraa. Banner, Preview credit goes to Alexman.",
 	  "category": "Fonts",
-      "version": "1.3",
+      "version": "1.3.1",
       "icon": "Icons/MikhakFont.png",
       "path": "Tweaks/meow.doraa.MikhakFont.misaka",
       "banner":"Banners/MikhakFont.JPG",
