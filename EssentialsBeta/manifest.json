@@ -7,32 +7,6 @@
   "accent":"#96B7CE", 
   "packages": [
     {
-      "name": "osu! argon Passcode",
-      "bundleid": "meow.doraa.osuargonPasscode",
-      "author": "doraa",
-      "description": "merged!",
-	  "category": "Passcode",
-      "version": "1.1",
-      "icon": "Icons/osuargonPasscodeRed.png",
-      "path": "Tweaks/meow.doraa.osuargonPasscode.misaka",
-      "banner":"Banners/osuargonPasscode.png",
-      "accent":"#96B7CE",
-	  "nosuggest": true
-    },
-    {
-      "name": "osu! argon Passcode (Red)",
-      "bundleid": "meow.doraa.osuargonPasscodeRed",
-      "author": "doraa",
-      "description": "misaka resize test",
-	  "category": "Passcode",
-      "version": "1.1",
-      "icon": "Icons/osuargonPasscodeRed.png",
-      "path": "Tweaks/meow.doraa.osuargonPasscodeRed.purekfd",
-      "banner":"Banners/osuargonPasscodeRed.png",
-      "accent":"#96B7CE",
-	  "nosuggest": true
-    },
-    {
       "name": "Fluent Color Emoji (partly Unicode 15) (temp)",
       "bundleid": "temp.doraa.FluentColorEmoji",
       "author": "PoomSmart & doraa",
@@ -55,34 +29,6 @@
       "icon": "Icons/ATV.png",
       "path": "Tweaks/meow.doraa.MelosoPlus.purekfd",
       "banner":"Banners/ATV.png",
-      "accent":"#96B7CE",
-	  "nosuggest": true
-    },
-    {
-      "name": "ATK HD",
-      "bundleid": "cmmb.doraa.ATKHD",
-      "author": "doraa",
-      "description": "make your phone no. 1 simp (but hd) (rel 100%!!!111111)",
-	  "long_description":":fr:",
-	  "category": ":fr:",
-      "version": "7.2.7",
-      "icon": "Icons/ATKHD.png",
-      "path": "Tweaks/cmmb.doraa.ATKHD.purekfd",
-      "banner":"Banners/ATKHD.png",
-      "accent":"#96B7CE",
-	  "nosuggest": true
-    },
-    {
-      "name": "ATK 4K",
-      "bundleid": "cmmb.doraa.ATK4K",
-      "author": "doraa",
-      "description": "make your phone no. 1 simp (but 4k) (rel 100%!!!111111)",
-	  "long_description":":fr:",
-	  "category": ":fr:",
-      "version": "7.2.7",
-      "icon": "Icons/ATK4K.png",
-      "path": "Tweaks/cmmb.doraa.ATK4K.purekfd",
-      "banner":"Banners/ATK4K.png",
       "accent":"#96B7CE",
 	  "nosuggest": true
     }
