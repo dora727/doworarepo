@@ -340,7 +340,7 @@
       "version": "1.0",
       "icon": "Icons/SFUIRounded100.png",
       "path": "Tweaks/meow.doraa.SFUIRounded100.purekfd",
-      "banner":"Banners/SFUIRounded100.png",
+      "banner":"Banners/SFUIRounded.png",
 	  "screenshots": ["Previews/SFUIRounded100/1.png", "Previews/SFUIRounded100/2.png", "Previews/SFUIRounded100/3.png"],
       "accent":"#96B7CE"
     },
