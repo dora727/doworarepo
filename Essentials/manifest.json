@@ -68,7 +68,7 @@
       "icon": "Icons/osuargonPasscode.png",
       "path": "Tweaks/meow.doraa.osuargonPasscode.misaka",
       "banner":"Banners/osuargonPasscode.png",
-	  "screenshots": ["Previews/osuargonPasscode/1.png", "Previews/osuargonPasscode/2.png", "Previews/osuargonPasscode/3.png", "Previews/osuargonPasscode/4.png"],
+	  "screenshots": ["Previews/osuargonPasscode/1.png", "Previews/osuargonPasscode/2.png", "Previews/osuargonPasscode/3.png", "Previews/osuargonPasscode/4.png" "Previews/osuargonPasscode/5.png"],
       "accent":"#96B7CE",
     },
     {
@@ -265,7 +265,7 @@
       "icon": "Icons/MikhakFont.png",
       "path": "Tweaks/meow.doraa.MikhakFont.misaka",
       "banner":"Banners/MikhakFont.JPG",
-	  "screenshots": ["Previews/MikhakFont/1.png","Previews/MikhakFont/2.png", "Previews/MikhakFont/3.JPG", "Previews/MikhakFont/4.JPG", "Previews/MikhakFont/5.JPG", "Previews/MikhakFont/6.JPG"],
+	  "screenshots": ["Previews/MikhakFont/1.png","Previews/MikhakFont/2.png", "Previews/MikhakFont/3.png", "Previews/MikhakFont/4.JPG", "Previews/MikhakFont/5.JPG", "Previews/MikhakFont/6.JPG", "Previews/MikhakFont/7.JPG"],
       "accent":"#96B7CE"
     },
     {
@@ -322,6 +322,20 @@
       "path": "Tweaks/meow.doraa.RhinoFont100.purekfd",
       "banner":"Banners/RhinoFont.png",
 	  "screenshots": ["Previews/RhinoFont100/1.png", "Previews/RhinoFont100/2.png"],
+      "accent":"#96B7CE"
+    },
+    {
+      "name": "SFUI Rounded font (100%)",
+      "bundleid": "meow.doraa.SFUIRounded100",
+      "author": "Alexman & doraa",
+      "description": "default font, but rounded?!?!?!?11",
+	  "long_description":"Font by Alexman, converted to tweak by doraa.",
+	  "category": "Fonts",
+      "version": "1.0",
+      "icon": "Icons/SFUIRounded100.png",
+      "path": "Tweaks/meow.doraa.SFUIRounded100.purekfd",
+      "banner":"Banners/SFUIRounded100.png",
+	  "screenshots": ["Previews/SFUIRounded100/1.png", "Previews/SFUIRounded100/2.png", "Previews/SFUIRounded100/3.png"],
       "accent":"#96B7CE"
     },
     {
