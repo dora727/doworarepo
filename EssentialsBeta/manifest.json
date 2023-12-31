@@ -20,14 +20,14 @@
 	  "nosuggest": true
     },
     {
-      "name": "Fluent Color Emoji (partly Unicode 15) (temp)",
-      "bundleid": "temp.doraa.FluentColorEmoji",
-      "author": "PoomSmart & doraa",
-      "description": "temp only, will delete after EPOS update",
-	  "category": "Emoji",
+      "name": "SFUI Rounded font (100%)",
+      "bundleid": "meow.doraa.SFUIRounded100",
+      "author": "Alexman & doraa",
+      "description": "kcj",
+	  "category": "Fonts",
       "version": "1.0",
       "icon": "Icons/ATV.png",
-      "path": "Tweaks/temp.doraa.FluentColorEmoji.purekfd",
+      "path": "Tweaks/meow.doraa.SFUIRounded100.purekfd",
       "banner":"Banners/ATV.png",
       "accent":"#96B7CE",
 	  "nosuggest": true

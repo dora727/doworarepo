@@ -115,6 +115,20 @@
       "accent":"#96B7CE"
     },
     {
+      "name": "Fluent Emoji (Unicode 15!)",
+      "bundleid": "meow.doraa.FluentEmoji",
+      "author": "PoomSmart & doraa",
+      "description": "Fluent Emoji with Unicode 15! and both Flat & 3D included",
+	  "long_description":"Emoji by PoomSmart, converted to tweak by doraa.",
+	  "category": "Emoji",
+      "version": "1.0",
+      "icon": "Icons/FluentEmoji.png",
+      "path": "Tweaks/meow.doraa.FluentEmoji.misaka",
+      "banner":"Banners/FluentEmoji.png",
+	  "screenshots": ["Previews/FluentEmoji/1.png", "Previews/FluentEmoji/2.png", "Previews/FluentEmoji/3.png"],
+      "accent":"#96B7CE"
+    },
+    {
       "name": "Google Noto Emoji cUrSeD",
       "bundleid": "meow.doraa.NotoEmojiCursed",
       "author": "PoomSmart & doraa",
