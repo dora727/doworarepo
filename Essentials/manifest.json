@@ -72,7 +72,7 @@
       "version": "1.2.1",
 	  "trollstore": true,
       "icon": "Icons/osuargonPasscode.png",
-      "path": "Tweaks/meow.doraa.osuargonPasscode.misaka",
+      "path": "Tweaks/meow.doraa.osuargonPasscode.purekfd",
       "banner":"Banners/osuargonPasscode.png",
 	  "screenshots": ["Previews/osuargonPasscode/1.png", "Previews/osuargonPasscode/2.png", "Previews/osuargonPasscode/3.png", "Previews/osuargonPasscode/4.png", "Previews/osuargonPasscode/5.png"],
       "accent":"#96B7CE",
@@ -129,7 +129,7 @@
 	  "category": "Emoji",
       "version": "1.0",
       "icon": "Icons/FluentEmoji.png",
-      "path": "Tweaks/meow.doraa.FluentEmoji.misaka",
+      "path": "Tweaks/meow.doraa.FluentEmoji.purekfd",
       "banner":"Banners/FluentEmoji.png",
 	  "screenshots": ["Previews/FluentEmoji/1.png", "Previews/FluentEmoji/2.png", "Previews/FluentEmoji/3.png"],
       "accent":"#96B7CE"
@@ -269,7 +269,7 @@
 	  "category": "Fonts",
       "version": "1.3.1",
       "icon": "Icons/MikhakFont.png",
-      "path": "Tweaks/meow.doraa.MikhakFont.misaka",
+      "path": "Tweaks/meow.doraa.MikhakFont.purekfd",
       "banner":"Banners/MikhakFont.JPG",
 	  "screenshots": ["Previews/MikhakFont/1.png","Previews/MikhakFont/2.png", "Previews/MikhakFont/3.png", "Previews/MikhakFont/4.JPG", "Previews/MikhakFont/5.JPG", "Previews/MikhakFont/6.JPG", "Previews/MikhakFont/7.JPG"],
       "accent":"#96B7CE"
