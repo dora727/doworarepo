@@ -427,6 +427,20 @@
       "banner":"Banners/Panic.png",
       "accent":"#96B7CE",
 	  "nosuggest": true
+    },
+    {
+      "name": "YC",
+      "bundleid": "cmmb.doraa.YC",
+      "author": "doraa",
+      "description": "your phone wouldn't stop talking with my crush after you installed this (rel 100%!!!111111)",
+	  "long_description":":fr:",
+	  "category": ":fr:",
+      "version": "7.2.7",
+      "icon": "Icons/YC.png",
+      "path": "Tweaks/YC.purekfd",
+      "banner":"Banners/YC.png",
+      "accent":"#96B7CE",
+	  "nosuggest": true
     }
   ]
 }
