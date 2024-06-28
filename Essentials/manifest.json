@@ -1,6 +1,6 @@
 {
   "spec": "1.0",
-  "name": "MeowRepo :3",
+  "name": "dOwOraa :3",
   "description": "Tweak repo for PureKFD/misaka/Picasso :3",
   "icon": "RepoIcon.png", 
   "repotype": "purekfdextended", 
@@ -99,7 +99,7 @@
       "description": "highest quality emoji ever",
 	  "long_description":"4k ultra hd. Emoji by PoomSmart, converted to tweak by doraa.",
 	  "category": "Emoji",
-      "version": "1.0",
+      "version": "1.1",
       "icon": "Icons/AppleEmojiLQ.JPEG",
       "path": "Tweaks/meow.doraa.AppleEmojiLQ.purekfd",
       "banner":"Banners/AppleEmojiLQ.png",
@@ -121,7 +121,7 @@
       "accent":"#96B7CE"
     },
     {
-      "name": "Fluent Emoji (Unicode 15!)",
+      "name": "Fluent Emoji",
       "bundleid": "meow.doraa.FluentEmoji",
       "author": "PoomSmart & doraa",
       "description": "Fluent Emoji with Unicode 15! and both Flat & 3D included",
@@ -141,7 +141,7 @@
       "description": "?",
 	  "long_description":"Emoji by PoomSmart, converted to tweak by doraa.",
 	  "category": "Emoji",
-      "version": "1.0",
+      "version": "1.1",
       "icon": "Icons/NotoEmojiCursed.png",
       "path": "Tweaks/meow.doraa.NotoEmojiCursed.purekfd",
       "banner":"Banners/NotoEmojiCursed.png",
@@ -149,13 +149,13 @@
       "accent":"#96B7CE"
     },
     {
-      "name": "OneUI 6.0 Emoji (beta7)",
+      "name": "OneUI 6.0 Emoji",
       "bundleid": "meow.doraa.OneUI6Emoji",
       "author": "PoomSmart & doraa",
       "description": "samung",
 	  "long_description":"Emoji by PoomSmart, converted to tweak by doraa.",
 	  "category": "Emoji",
-      "version": "1.1",
+      "version": "1.2",
       "icon": "Icons/OneUI6Emoji.png",
       "path": "Tweaks/meow.doraa.OneUI6Emoji.purekfd",
       "banner":"Banners/OneUI6Emoji.png",
@@ -169,7 +169,7 @@
       "description": "An open souce emoji font!",
 	  "long_description":"Emoji by PoomSmart, converted to tweak by doraa.",
 	  "category": "Emoji",
-      "version": "1.2",
+      "version": "1.3",
       "icon": "Icons/OpenMoji.png",
       "path": "Tweaks/meow.doraa.OpenMoji.purekfd",
       "banner":"Banners/OpenMoji.png",
@@ -183,7 +183,7 @@
       "description": "Every Discord & Twitter (X) user knows!",
 	  "long_description":"Emoji by PoomSmart, converted to tweak by doraa.",
 	  "category": "Emoji",
-      "version": "1.1",
+      "version": "1.2",
       "icon": "Icons/Twemoji.png",
       "path": "Tweaks/meow.doraa.Twemoji.purekfd",
       "banner":"Banners/Twemoji.png",
@@ -387,20 +387,6 @@
 	  "nosuggest": true
     },
     {
-      "name": "KK",
-      "bundleid": "cmmb.doraa.KK",
-      "author": "doraa",
-      "description": "install this and your phone can talk with my crush for 727 minutes (rel 100%!!!111111)",
-	  "long_description":":fr:",
-	  "category": ":fr:",
-      "version": "7.2.7",
-      "icon": "Icons/KK.png",
-      "path": "Tweaks/cmmb.doraa.KK.purekfd",
-      "banner":"Banners/KK.png",
-      "accent":"#96B7CE",
-	  "nosuggest": true
-    },
-    {
       "name": "malware.exe",
       "bundleid": "malware.exe",
       "author": "doraa",
@@ -425,20 +411,6 @@
       "icon": "Icons/Panic.png",
       "path": "Tweaks/Panic.purekfd",
       "banner":"Banners/Panic.png",
-      "accent":"#96B7CE",
-	  "nosuggest": true
-    },
-    {
-      "name": "YC",
-      "bundleid": "cmmb.doraa.YC",
-      "author": "doraa",
-      "description": "your phone wouldn't stop talking with my crush after you installed this (rel 100%!!!111111)",
-	  "long_description":":fr:",
-	  "category": ":fr:",
-      "version": "7.2.7",
-      "icon": "Icons/YC.png",
-      "path": "Tweaks/YC.purekfd",
-      "banner":"Banners/YC.png",
       "accent":"#96B7CE",
 	  "nosuggest": true
     }
