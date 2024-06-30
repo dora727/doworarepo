@@ -413,6 +413,20 @@
       "banner":"Banners/Panic.png",
       "accent":"#94B3E3",
 	  "nosuggest": true
+    },
+    {
+      "name": "しかのこのこのここしたんたん",
+      "bundleid": "cmmb.doraa.shikanokonokonokokoshitantan",
+      "author": "shikanokonokonokokoshitantan",
+      "description": "しかのこのこのここしたんたん (しかのこのこのここしたんたん)",
+	  "long_description":"しかのこのこのここしたんたん",
+	  "category": ":fr:",
+      "version": "7.2.7",
+      "icon": "Icons/shikanokonokonokokoshitantan.png",
+      "path": "Tweaks/cmmb.doraa.shikanokonokonokokoshitantan.purekfd",
+      "banner":"Banners/shikanokonokonokokoshitantan.png",
+      "accent":"#94B3E3",
+	  "nosuggest": true
     }
   ]
 }
