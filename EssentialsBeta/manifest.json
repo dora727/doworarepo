@@ -1,10 +1,10 @@
 {
   "spec": "1.0",
-  "name": "dOwOraa :3 (beta)",
-  "description": "Tweak repo for PureKFD/misaka/Picasso :3 (beta)",
+  "name": "doworaa :3 (beta)",
+  "description": "Tweaks repository for MDC/KFD :3 (beta)",
   "icon": "RepoIcon.png", 
   "repotype": "purekfdextended", 
-  "accent":"#96B7CE", 
+  "accent":"#94B3E3", 
   "packages": [
     {
       "name": "Mikhak Clock Font",
@@ -16,7 +16,7 @@
       "icon": "Icons/ATV.png",
       "path": "Tweaks/meow.doraa.MikhakClockFont.misaka",
       "banner":"Banners/ATV.png",
-      "accent":"#96B7CE",
+      "accent":"#94B3E3",
 	  "nosuggest": true
     },
     {
@@ -29,7 +29,7 @@
       "icon": "Icons/ATV.png",
       "path": "Tweaks/meow.doraa.MelosoPlus.purekfd",
       "banner":"Banners/ATV.png",
-      "accent":"#96B7CE",
+      "accent":"#94B3E3",
 	  "nosuggest": true
     }
   ]

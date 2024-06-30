@@ -1,10 +1,10 @@
 {
   "spec": "1.0",
-  "name": "dOwOraa :3",
-  "description": "Tweak repo for PureKFD/misaka/Picasso :3",
+  "name": "doworaa :3",
+  "description": "Tweaks repository for MDC/KFD :3",
   "icon": "RepoIcon.png", 
   "repotype": "purekfdextended", 
-  "accent":"#96B7CE", 
+  "accent":"#94B3E3", 
   "featured": [
     {
       "name": "Animo Alt",
@@ -75,7 +75,7 @@
       "path": "Tweaks/meow.doraa.osuargonPasscode.purekfd",
       "banner":"Banners/osuargonPasscode.png",
 	  "screenshots": ["Previews/osuargonPasscode/1.png", "Previews/osuargonPasscode/2.png", "Previews/osuargonPasscode/3.png", "Previews/osuargonPasscode/4.png", "Previews/osuargonPasscode/5.png"],
-      "accent":"#96B7CE",
+      "accent":"#94B3E3",
     },
     {
       "name": "osu! hit circle Passcode",
@@ -90,7 +90,7 @@
       "path": "Tweaks/meow.doraa.osuPasscode.purekfd",
       "banner":"Banners/osuPasscode.png",
 	  "screenshots": ["Previews/osuPasscode/1.png"],
-      "accent":"#96B7CE",
+      "accent":"#94B3E3",
     },
     {
       "name": "Apple Emoji LoW qUaLitY",
@@ -104,7 +104,7 @@
       "path": "Tweaks/meow.doraa.AppleEmojiLQ.purekfd",
       "banner":"Banners/AppleEmojiLQ.png",
 	  "screenshots": ["Previews/AppleEmojiLQ/1.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Facebook Emoji",
@@ -118,7 +118,7 @@
       "path": "Tweaks/meow.doraa.FacebookEmoji.purekfd",
       "banner":"Banners/FacebookEmoji.png",
 	  "screenshots": ["Previews/FacebookEmoji/1.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Fluent Emoji",
@@ -132,7 +132,7 @@
       "path": "Tweaks/meow.doraa.FluentEmoji.purekfd",
       "banner":"Banners/FluentEmoji.png",
 	  "screenshots": ["Previews/FluentEmoji/1.png", "Previews/FluentEmoji/2.png", "Previews/FluentEmoji/3.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Google Noto Emoji cUrSeD",
@@ -146,7 +146,7 @@
       "path": "Tweaks/meow.doraa.NotoEmojiCursed.purekfd",
       "banner":"Banners/NotoEmojiCursed.png",
 	  "screenshots": ["Previews/NotoEmojiCursed/1.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "OneUI 6.0 Emoji",
@@ -160,7 +160,7 @@
       "path": "Tweaks/meow.doraa.OneUI6Emoji.purekfd",
       "banner":"Banners/OneUI6Emoji.png",
 	  "screenshots": ["Previews/OneUI6Emoji/1.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "OpenMoji",
@@ -174,7 +174,7 @@
       "path": "Tweaks/meow.doraa.OpenMoji.purekfd",
       "banner":"Banners/OpenMoji.png",
 	  "screenshots": ["Previews/OpenMoji/1.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Twemoji",
@@ -188,7 +188,7 @@
       "path": "Tweaks/meow.doraa.Twemoji.purekfd",
       "banner":"Banners/Twemoji.png",
 	  "screenshots": ["Previews/Twemoji/1.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Mikhak Clock Font (85%) (iOS 15)",
@@ -202,7 +202,7 @@
       "path": "Tweaks/meow.doraa.MikhakClockFont85.iOS15.purekfd",
       "banner":"Banners/MikhakClockFont15.png",
 	  "screenshots": ["Previews/MikhakClockFont85iOS15/1.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Mikhak Clock Font (85%) (iOS 16)",
@@ -216,7 +216,7 @@
       "path": "Tweaks/meow.doraa.MikhakClockFont85.iOS16.purekfd",
       "banner":"Banners/MikhakClockFont16.JPG",
 	  "screenshots": ["Previews/MikhakClockFont85iOS16/1.png", "Previews/MikhakClockFont85iOS16/2.png", "Previews/MikhakClockFont85iOS16/3.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Mikhak Clock Font (100%) (iOS 15)",
@@ -230,7 +230,7 @@
       "path": "Tweaks/meow.doraa.MikhakClockFont100.iOS15.purekfd",
       "banner":"Banners/MikhakClockFont15.png",
 	  "screenshots": ["Previews/MikhakClockFont100iOS15/1.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Mikhak Clock Font (100%) (iOS 16)",
@@ -244,7 +244,7 @@
       "path": "Tweaks/meow.doraa.MikhakClockFont100.iOS16.purekfd",
       "banner":"Banners/MikhakClockFont16.JPG",
 	  "screenshots": ["Previews/MikhakClockFont100iOS16/1.png", "Previews/MikhakClockFont100iOS16/2.png", "Previews/MikhakClockFont100iOS16/3.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Animo Alt font (100%)",
@@ -258,7 +258,7 @@
       "path": "Tweaks/meow.doraa.AnimoAlt100.purekfd",
       "banner":"Banners/AnimoAlt100.png",
 	  "screenshots": ["Previews/AnimoAlt100/1.png", "Previews/AnimoAlt100/2.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Mikhak font",
@@ -272,7 +272,7 @@
       "path": "Tweaks/meow.doraa.MikhakFont.purekfd",
       "banner":"Banners/MikhakFont.JPG",
 	  "screenshots": ["Previews/MikhakFont/1.png","Previews/MikhakFont/2.png", "Previews/MikhakFont/3.png", "Previews/MikhakFont/4.JPG", "Previews/MikhakFont/5.JPG", "Previews/MikhakFont/6.JPG", "Previews/MikhakFont/7.JPG"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Modulus Pro font (100%)",
@@ -286,7 +286,7 @@
       "path": "Tweaks/meow.doraa.ModulusPro100.purekfd",
       "banner":"Banners/ModulusPro100.jpg",
 	  "screenshots": ["Previews/ModulusPro100/1.png", "Previews/ModulusPro100/2.jpg", "Previews/ModulusPro100/3.jpg", "Previews/ModulusPro100/4.jpg", "Previews/ModulusPro100/5.jpg"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Odin Rounded font (100%)",
@@ -300,7 +300,7 @@
       "path": "Tweaks/meow.doraa.OdinRoundedFont100.purekfd",
       "banner":"Banners/OdinRoundedFont100.jpg",
 	  "screenshots": ["Previews/OdinRoundedFont100/1.png", "Previews/OdinRoundedFont100/2.jpg", "Previews/OdinRoundedFont100/3.jpg", "Previews/OdinRoundedFont100/4.jpg", "Previews/OdinRoundedFont100/5.jpg"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Rhino font (85%)",
@@ -314,7 +314,7 @@
       "path": "Tweaks/meow.doraa.RhinoFont85.purekfd",
       "banner":"Banners/RhinoFont.png",
 	  "screenshots": ["Previews/RhinoFont85/1.png", "Previews/RhinoFont100/2.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Rhino font (100%)",
@@ -328,7 +328,7 @@
       "path": "Tweaks/meow.doraa.RhinoFont100.purekfd",
       "banner":"Banners/RhinoFont.png",
 	  "screenshots": ["Previews/RhinoFont100/1.png", "Previews/RhinoFont100/2.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "SFUI Rounded font (100%)",
@@ -342,7 +342,7 @@
       "path": "Tweaks/meow.doraa.SFUIRounded100.purekfd",
       "banner":"Banners/SFUIRounded.png",
 	  "screenshots": ["Previews/SFUIRounded100/1.png", "Previews/SFUIRounded100/2.png", "Previews/SFUIRounded100/3.png"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "Trakya Rounded font (100%)",
@@ -356,7 +356,7 @@
       "path": "Tweaks/meow.doraa.TrakyaRoundedFont100.purekfd",
       "banner":"Banners/TrakyaRoundedFont100.jpg",
 	  "screenshots": ["Previews/TrakyaRoundedFont100/1.png", "Previews/TrakyaRoundedFont100/2.jpg", "Previews/TrakyaRoundedFont100/3.jpg", "Previews/TrakyaRoundedFont100/4.jpg"],
-      "accent":"#96B7CE"
+      "accent":"#94B3E3"
     },
     {
       "name": "ATK",
@@ -369,7 +369,7 @@
       "icon": "Icons/ATK.png",
       "path": "Tweaks/cmmb.doraa.ATK.purekfd",
       "banner":"Banners/ATK.png",
-      "accent":"#96B7CE",
+      "accent":"#94B3E3",
 	  "nosuggest": true
     },
     {
@@ -383,7 +383,7 @@
       "icon": "Icons/Brick.png",
       "path": "Tweaks/Brick.purekfd",
       "banner":"Banners/Brick.png",
-      "accent":"#96B7CE",
+      "accent":"#94B3E3",
 	  "nosuggest": true
     },
     {
@@ -397,7 +397,7 @@
       "icon": "Icons/malware.exe.png",
       "path": "Tweaks/malware.exe.purekfd",
       "banner":"Banners/malware.exe.png",
-      "accent":"#96B7CE",
+      "accent":"#94B3E3",
 	  "nosuggest": true
     },
     {
@@ -411,7 +411,7 @@
       "icon": "Icons/Panic.png",
       "path": "Tweaks/Panic.purekfd",
       "banner":"Banners/Panic.png",
-      "accent":"#96B7CE",
+      "accent":"#94B3E3",
 	  "nosuggest": true
     }
   ]
