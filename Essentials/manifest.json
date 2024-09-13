@@ -76,6 +76,7 @@
       "banner":"Banners/osuargonPasscode.png",
 	  "screenshots": ["Previews/osuargonPasscode/1.png", "Previews/osuargonPasscode/2.png", "Previews/osuargonPasscode/3.png", "Previews/osuargonPasscode/4.png", "Previews/osuargonPasscode/5.png"],
       "accent":"#94B3E3",
+	  "varonly":true
     },
     {
       "name": "osu! hit circle Passcode",
@@ -91,6 +92,7 @@
       "banner":"Banners/osuPasscode.png",
 	  "screenshots": ["Previews/osuPasscode/1.png"],
       "accent":"#94B3E3",
+	  "varonly":true
     },
     {
       "name": "Apple Emoji LoW qUaLitY",
