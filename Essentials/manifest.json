@@ -63,6 +63,21 @@
   ],
   "packages": [
     {
+      "name": "Cabin font for Discord",
+      "bundleid": "meow.doraa.CabinFont-Discord",
+      "author": "Google & Rosie & doraa",
+      "description": "Change your Discord font!",
+	  "long_description":"Font by Google, Ported for Discord by Rosie and doraa (fix+package).",
+	  "category": "Discord Fonts",
+      "version": "1.0",
+      "icon": "Icons/CabinFont-Discord.png",
+      "path": "Tweaks/meow.doraa.CabinFont-Discord.purekfd",
+      "banner":"Banners/CabinFont-Discord.png",
+	  "screenshots": ["Previews/CabinFont-Discord/1.png"],
+      "accent":"#94B3E3",
+	  "varonly":true
+    },
+    {
       "name": "Meloso font for Discord",
       "bundleid": "meow.doraa.MelosoFont-Discord",
       "author": "Alexman & doraa",
@@ -74,7 +89,8 @@
       "path": "Tweaks/meow.doraa.MelosoFont-Discord.purekfd",
       "banner":"Banners/MelosoFont-Discord.png",
 	  "screenshots": ["Previews/MelosoFont-Discord/1.png"],
-      "accent":"#94B3E3"
+      "accent":"#94B3E3",
+	  "varonly":true
     },
     {
       "name": "osu!lazer argon Passcode",
