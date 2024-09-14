@@ -75,7 +75,7 @@
       "banner":"Banners/MelosoFont-Discord.png",
 	  "screenshots": ["Previews/MelosoFont-Discord/1.png"],
       "accent":"#94B3E3"
-    }
+    },
     {
       "name": "osu!lazer argon Passcode",
       "bundleid": "meow.doraa.osuargonPasscode",
