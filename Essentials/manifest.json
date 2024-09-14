@@ -1,7 +1,7 @@
 {
   "spec": "1.0",
   "name": "doworaa :3",
-  "description": "Tweaks repository for MDC/KFD :3",
+  "description": "Tweaks repository for MDC/KFD/(partly)SpraseRestore :3",
   "icon": "RepoIcon.png", 
   "repotype": "purekfdextended", 
   "accent":"#94B3E3", 
@@ -62,6 +62,20 @@
     }
   ],
   "packages": [
+    {
+      "name": "Meloso font for Discord",
+      "bundleid": "meow.doraa.MelosoFont-Discord",
+      "author": "Alexman & doraa",
+      "description": "Change your Discord font!",
+	  "long_description":"Font by Alexman, Ported for Discord by doraa.",
+	  "category": "Discord Fonts",
+      "version": "1.0",
+      "icon": "Icons/MelosoFont-Discord.png",
+      "path": "Tweaks/meow.doraa.MelosoFont-Discord.purekfd",
+      "banner":"Banners/MelosoFont-Discord.png",
+	  "screenshots": ["Previews/MelosoFont-Discord/1.png"],
+      "accent":"#94B3E3"
+    }
     {
       "name": "osu!lazer argon Passcode",
       "bundleid": "meow.doraa.osuargonPasscode",
@@ -359,76 +373,6 @@
       "banner":"Banners/TrakyaRoundedFont100.jpg",
 	  "screenshots": ["Previews/TrakyaRoundedFont100/1.png", "Previews/TrakyaRoundedFont100/2.jpg", "Previews/TrakyaRoundedFont100/3.jpg", "Previews/TrakyaRoundedFont100/4.jpg"],
       "accent":"#94B3E3"
-    },
-    {
-      "name": "ATK",
-      "bundleid": "cmmb.doraa.ATK",
-      "author": "doraa",
-      "description": "make your phone no. 1 simp (rel 100%!!!111111)",
-	  "long_description":":fr:",
-	  "category": ":fr:",
-      "version": "7.2.7",
-      "icon": "Icons/ATK.png",
-      "path": "Tweaks/cmmb.doraa.ATK.purekfd",
-      "banner":"Banners/ATK.png",
-      "accent":"#94B3E3",
-	  "nosuggest": true
-    },
-    {
-      "name": "Brick",
-      "bundleid": "Brick",
-      "author": "doraa",
-      "description": "brick your phone (rel 100%!!!111111)",
-	  "long_description":":fr:",
-	  "category": ":fr:",
-      "version": "7.2.7",
-      "icon": "Icons/Brick.png",
-      "path": "Tweaks/Brick.purekfd",
-      "banner":"Banners/Brick.png",
-      "accent":"#94B3E3",
-	  "nosuggest": true
-    },
-    {
-      "name": "malware.exe",
-      "bundleid": "malware.exe",
-      "author": "doraa",
-      "description": "add malwares your phone (rel 100%!!!111111)",
-	  "long_description":":fr:",
-	  "category": ":fr:",
-      "version": "7.2.7",
-      "icon": "Icons/malware.exe.png",
-      "path": "Tweaks/malware.exe.purekfd",
-      "banner":"Banners/malware.exe.png",
-      "accent":"#94B3E3",
-	  "nosuggest": true
-    },
-    {
-      "name": "Panic",
-      "bundleid": "Panic",
-      "author": "doraa",
-      "description": "panic your phone (rel 100%!!!111111)",
-	  "long_description":":fr:",
-	  "category": ":fr:",
-      "version": "7.2.7",
-      "icon": "Icons/Panic.png",
-      "path": "Tweaks/Panic.purekfd",
-      "banner":"Banners/Panic.png",
-      "accent":"#94B3E3",
-	  "nosuggest": true
-    },
-    {
-      "name": "しかのこのこのここしたんたん",
-      "bundleid": "cmmb.doraa.shikanokonokonokokoshitantan",
-      "author": "shikanokonokonokokoshitantan",
-      "description": "しかのこのこのここしたんたん (しかのこのこのここしたんたん)",
-	  "long_description":"しかのこのこのここしたんたん",
-	  "category": ":fr:",
-      "version": "7.2.7",
-      "icon": "Icons/shikanokonokonokokoshitantan.png",
-      "path": "Tweaks/cmmb.doraa.shikanokonokonokokoshitantan.purekfd",
-      "banner":"Banners/shikanokonokonokokoshitantan.png",
-      "accent":"#94B3E3",
-	  "nosuggest": true
     }
   ]
 }
