@@ -93,6 +93,21 @@
 	  "varonly":true
     },
     {
+      "name": "Quicksand font for Discord",
+      "bundleid": "meow.doraa.QuicksandFont-Discord",
+      "author": "Google & Rosie & doraa",
+      "description": "Change your Discord font!",
+	  "long_description":"Font by Google, Ported for Discord by Rosie and doraa (fix+package).",
+	  "category": "Discord Fonts",
+      "version": "1.0",
+      "icon": "Icons/QuicksandFont-Discord.png",
+      "path": "Tweaks/meow.doraa.QuicksandFont-Discord.purekfd",
+      "banner":"Banners/QuicksandFont-Discord.png",
+	  "screenshots": ["Previews/QuicksandFont-Discord/1.png"],
+      "accent":"#94B3E3",
+	  "varonly":true
+    },
+    {
       "name": "osu!lazer argon Passcode",
       "bundleid": "meow.doraa.osuargonPasscode",
       "author": "doraa",
