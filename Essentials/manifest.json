@@ -78,6 +78,21 @@
 	  "varonly":true
     },
     {
+      "name": "NOTHING font for Discord",
+      "bundleid": "meow.doraa.NOTHINGFont-Discord",
+      "author": "NOTHING & doraa",
+      "description": "Change your Discord font!",
+	  "long_description":"Font by NOTHING, Ported for Discord by doraa.",
+	  "category": "Discord Fonts",
+      "version": "1.0",
+      "icon": "Icons/NOTHINGFont-Discord.png",
+      "path": "Tweaks/meow.doraa.NOTHINGFont-Discord.purekfd",
+      "banner":"Banners/NOTHINGFont-Discord.png",
+	  "screenshots": ["Previews/NOTHINGFont-Discord/1.png"],
+      "accent":"#94B3E3",
+	  "varonly":true
+    },
+    {
       "name": "Meloso font for Discord",
       "bundleid": "meow.doraa.MelosoFont-Discord",
       "author": "Alexman & doraa",
