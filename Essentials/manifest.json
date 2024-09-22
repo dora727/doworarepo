@@ -7,6 +7,24 @@
   "accent":"#94B3E3", 
   "featured": [
     {
+      "name": "Fake Island",
+      "bundleid": "meow.doraa.FakeIsland",
+      "banner":"Banners/FakeIsland.png",
+      "showname": false
+    },
+    {
+      "name": "NOTHING font for Discord",
+      "bundleid": "meow.doraa.NOTHINGFont-Discord",
+      "banner":"Banners/NOTHINGFont-Discord.png",
+      "showname": false
+    },
+    {
+      "name": "Meloso font for Discord",
+      "bundleid": "meow.doraa.MelosoFont-Discord",
+      "banner":"Banners/MelosoFont-Discord.png",
+      "showname": false
+    },
+    {
       "name": "Animo Alt",
       "bundleid": "meow.doraa.AnimoAlt100",
       "banner":"Banners/AnimoAlt100.png",
@@ -62,6 +80,21 @@
     }
   ],
   "packages": [
+    {
+      "name": "Fake Island",
+      "bundleid": "meow.doraa.FakeIsland",
+      "author": "doraa",
+      "description": "Enable Dynamic Island for unsupported devices (iOS 16.0+ ONLY)!",
+	  "long_description":"FOR IOS 16.0+ ONLY! I AM NOT RESPONSIBLE FOR YOUR ISSUES, USE AT YOUR OWN RISK.",
+	  "category": "Tools",
+      "version": "1.0",
+      "icon": "Icons/FakeIsland.png",
+      "path": "Tweaks/meow.doraa.FakeIsland.purekfd",
+      "banner":"Banners/FakeIsland.png",
+	  "screenshots": ["Previews/FakeIsland/1.png"],
+      "accent":"#94B3E3",
+	  "varonly":true
+    },
     {
       "name": "Cabin font for Discord",
       "bundleid": "meow.doraa.CabinFont-Discord",
