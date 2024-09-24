@@ -99,7 +99,7 @@
       "description": "Enable Dynamic Island & iPhone X gestures on unsupported devices!",
 	  "long_description":"I AM NOT RESPONSIBLE FOR YOUR ISSUES, USE AT YOUR OWN RISK.",
 	  "category": "Tools",
-      "version": "1.2",
+      "version": "1.2.1",
       "icon": "Icons/iGestalt.png",
       "path": "Tweaks/meow.doraa.iGestalt.purekfd",
       "banner":"Banners/iGestalt.png",
