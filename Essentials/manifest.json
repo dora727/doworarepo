@@ -112,7 +112,6 @@
       "icon": "Icons/MuteModule.png",
       "path": "Tweaks/meow.doraa.MuteModule.purekfd",
       "banner":"Banners/MuteModule.png",
-	  "screenshots": ["Previews/MuteModule/1.png"],
       "accent":"#94B3E3",
 	  "varonly":true
     },
@@ -121,7 +120,7 @@
       "bundleid": "meow.doraa.TrollTips",
       "author": "doraa",
       "description": "Install TrollStore via Tips for iOS 15.0 - 16.6.1, 17.0!",
-	  "long_description":"Support MDC, KFD, SparseRestore for iOS 15.0 - 16.6.1, 17.0!\n\nStep:\n1. Install [Tips](https://apps.apple.com/app/tips/id1069509450)\n2. Install TrollTips\n3. Apply & Reboot\n4. Open Tips app\n5. Click Install TrollStore",
+	  "long_description":"Support MDC, KFD, SparseRestore for iOS 15.0 - 16.6.1, 17.0!\n\nStep:\n1. Install [Tips](https://apps.apple.com/app/tips/id1069509450)\n2 from App Store. Install TrollTips\n3. Apply & Reboot\n4. Open Tips app\n5. Click Install TrollStore",
 	  "category": "Tools",
       "version": "1.0",
       "icon": "Icons/TrollTips.png",
