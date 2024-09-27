@@ -31,6 +31,12 @@
       "showname": false
     },
     {
+      "name": "Plumpy Iconpack for Discord",
+      "bundleid": "meow.doraa.PlumpyIconpack-Discord",
+      "banner":"Banners/PlumpyIconpack-Discord.png",
+      "showname": false
+    },
+    {
       "name": "NOTHING font for Discord",
       "bundleid": "meow.doraa.NOTHINGFont-Discord",
       "banner":"Banners/NOTHINGFont-Discord.png",
@@ -169,6 +175,21 @@
       "path": "Tweaks/meow.doraa.MaterialTwoToneIconpack-Discord.purekfd",
       "banner":"Banners/MaterialTwoToneIconpack-Discord.png",
 	  "screenshots": ["Previews/MaterialTwoToneIconpack-Discord/1.png"],
+      "accent":"#94B3E3",
+	  "varonly":true
+    },
+    {
+      "name": "Plumpy Iconpack for Discord",
+      "bundleid": "meow.doraa.PlumpyIconpack-Discord",
+      "author": "Icons8 & Rosie & Rairof & doraa",
+      "description": "Change your Discord iconpack!",
+	  "long_description":"Iconpack by Icons8. Ported for Discord by Rosie, Rairof and doraa.\nNOTE: If you update, or reinstall Discord, you will have to re-apply.",
+	  "category": "Discord Iconpacks",
+      "version": "1.0",
+      "icon": "Icons/PlumpyIconpack-Discord.png",
+      "path": "Tweaks/meow.doraa.PlumpyIconpack-Discord.purekfd",
+      "banner":"Banners/PlumpyIconpack-Discord.png",
+	  "screenshots": ["Previews/PlumpyIconpack-Discord/1.png"],
       "accent":"#94B3E3",
 	  "varonly":true
     },
