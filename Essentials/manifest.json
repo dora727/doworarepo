@@ -571,6 +571,19 @@
       "banner":"Banners/TrakyaRoundedFont100.jpg",
 	  "screenshots": ["Previews/TrakyaRoundedFont100/1.png", "Previews/TrakyaRoundedFont100/2.jpg", "Previews/TrakyaRoundedFont100/3.jpg", "Previews/TrakyaRoundedFont100/4.jpg"],
       "accent":"#94B3E3"
+    },
+    {
+      "name": "MOV HD",
+      "bundleid": "cmmb.doraa.MOVHD",
+      "author": "doraa, nghia mov",
+      "description": "i only notice the MOV channel (t chỉ để ý kênh MOV)",
+	  "long_description":"install and your phone will only notice the mov channel",
+	  "category": "easter egg",
+      "version": "7.2.7",
+      "icon": "Icons/MOVHD.png",
+      "path": "Tweaks/cmmb.doraa.MOVHD.purekfd",
+      "banner":"Banners/MOVHD.png",
+      "accent":"#94B3E3"
     }
   ]
 }
