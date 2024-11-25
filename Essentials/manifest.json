@@ -13,12 +13,6 @@
       "showname": false
     },
     {
-      "name": "Supervised",
-      "bundleid": "meow.doraa.Supervised",
-      "banner":"Banners/Supervised.png",
-      "showname": false
-    },
-    {
       "name": "TrollTips",
       "bundleid": "meow.doraa.TrollTips",
       "banner":"Banners/TrollTips.png",
@@ -136,21 +130,6 @@
       "icon": "Icons/MuteModule.png",
       "path": "Tweaks/meow.doraa.MuteModule.purekfd",
       "banner":"Banners/MuteModule.png",
-      "accent":"#94B3E3",
-	  "varonly":true
-    },
-    {
-      "name": "Supervised",
-      "bundleid": "meow.doraa.Supervised",
-      "author": "doraa",
-      "description": "Supervise your phone (with organization name)!",
-	  "long_description":"I AM NOT RESPONSIBLE FOR YOUR ISSUES, USE AT YOUR OWN RISK.",
-	  "category": "Tools",
-      "version": "1.0",
-      "icon": "Icons/Supervised.png",
-      "path": "Tweaks/meow.doraa.Supervised.purekfd",
-      "banner":"Banners/Supervised.png",
-	  "screenshots": ["Previews/Supervised/1.png"],
       "accent":"#94B3E3",
 	  "varonly":true
     },
