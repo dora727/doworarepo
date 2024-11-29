@@ -555,7 +555,7 @@
       "name": "MOV HD",
       "bundleid": "cmmb.doraa.MOVHD",
       "author": "doraa, nghia mov",
-      "description": "i only notice the MOV channel (t chỉ để ý kênh MOV)",
+      "description": "i only notice the mov channel (t chỉ để ý kênh mov)",
 	  "long_description":"install and your phone will only notice the mov channel",
 	  "category": "easter egg",
       "version": "7.2.7",
