@@ -5,7 +5,7 @@
   "RepositoryIcon": "https://raw.githubusercontent.com/dora727/doworarepo/refs/heads/misaka/Essentials/RepoIcon.png",
   "RepositoryWebsite": "https://github.com/dora727/doworarepo/tree/misaka/",
   "Default": {
-    "HeaderImage": "https://raw.githubusercontent.com/dora727/doworarepo/refs/heads/misaka/Essentials/RepoIcon.png", //temporary
+    "HeaderImage": "https://raw.githubusercontent.com/dora727/doworarepo/refs/heads/misaka/Essentials/RepoIcon.png",
     "ViewCount": true
   },
   "RepositoryAccent": "#ADC5FA",
