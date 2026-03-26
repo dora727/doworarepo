@@ -1,0 +1,56 @@
+{
+  "RepositoryName": "doworarepo",
+  "RepositoryDescription": "Tweaks repository for MDC/KFD/(partly)SpraseRestore/DarkSword",
+  "RepositoryAuthor": "dor4a",
+  "RepositoryIcon": "https://raw.githubusercontent.com/dora727/doworarepo/refs/heads/misaka/Essentials/RepoIcon.png",
+  "RepositoryWebsite": "https://github.com/dora727/doworarepo/tree/misaka/",
+  "Default": {
+    "HeaderImage": "https://raw.githubusercontent.com/dora727/doworarepo/refs/heads/misaka/Essentials/RepoIcon.png", //temporary
+    "ViewCount": true
+  },
+  "RepositoryAccent": "#ADC5FA",
+  "featured": [
+    {
+      "name": "osu!lazer argon Passcode",
+      "bundleid": "misaka.dor4a.osuargonPasscode",
+      "banner": "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Banners/osuargonPasscode.png",
+      "showname": false
+    }
+  ],
+  "RepositoryContents": [
+    {
+      "Name": "osu!lazer argon Passcode",
+      "Description": "osu!lazer default skin!",
+      "Author": {
+        "Label": "dor4a",
+        "Links": [
+          {
+            "Label": "dor4a",
+            "Link": "https://discordapp.com/users/455513497288310785"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Icons/osuargonPasscode.png",
+      "HeaderImage": "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Banners/osuargonPasscode.png",
+      "Category": "Passcode Themes",
+      "Caption": "Pick your favorite color at Preference!",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "26.0.1",
+      "Screenshot": [
+        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/osuargonPasscode/1.png",
+        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/osuargonPasscode/2.png",
+        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/osuargonPasscode/3.png",
+        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/osuargonPasscode/4.png",
+        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/osuargonPasscode/5.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.2.1",
+          "Package": "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Tweaks/misaka.doraa.osuargonPasscode.misaka",
+          "Description": "[Christmas]"
+        }
+      ],
+      "PackageID": "misaka.dor4a.osuargonPasscode"
+    }
+  ]
+}
