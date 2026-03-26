@@ -51,6 +51,43 @@
         }
       ],
       "PackageID": "misaka.dor4a.osuargonPasscode"
+    },
+    {
+      "Name": "Trakya Rounded font (100%)",
+      "Description": "Font by Alexman, converted to tweak by doraa. Banner, Preview credit goes to Alexman.",
+      "Author": {
+        "Label": "Alexman, dor4a",
+        "Links": [
+          {
+            "Label": "dor4a",
+            "Link": "https://discordapp.com/users/455513497288310785"
+          },
+          {
+            "Label": "Alexman",
+            "Link": "https://x.com/Alexman1979"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Icons/TrakyaRoundedFont100.png",
+      "HeaderImage": "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Banners/TrakyaRoundedFont100.jpg",
+      "Category": "Font",
+      "Caption": "Font by Alexman, converted to tweak by doraa. Banner, Preview credit goes to Alexman.",
+      "MinIOSVersion": "15.0",
+      "MaxIOSVersion": "26.0.1",
+      "Screenshot": [
+        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/TrakyaRoundedFont100/1.png",
+        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/TrakyaRoundedFont100/2.png",
+        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/TrakyaRoundedFont100/3.png",
+        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/TrakyaRoundedFont100/4.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Tweaks/misaka.dor4a.TrakyaRoundedFont100.misaka",
+          "Description": "Test misaka support"
+        }
+      ],
+      "PackageID": "misaka.dor4a.TrakyaRoundedFont100"
     }
   ]
 }
