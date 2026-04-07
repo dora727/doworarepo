@@ -2,10 +2,10 @@
   "RepositoryName": "doworarepo",
   "RepositoryDescription": "Tweaks repository for MDC/KFD/(partly)SpraseRestore/DarkSword",
   "RepositoryAuthor": "dor4a",
-  "RepositoryIcon": "https://raw.githubusercontent.com/dora727/doworarepo/refs/heads/misaka/Essentials/RepoIcon.png",
+  "RepositoryIcon": "https://raw.githubusercontent.com/dora727/doworarepo/refs/heads/master/Essentials/RepoIcon.png",
   "RepositoryWebsite": "https://github.com/dora727/doworarepo/tree/misaka/",
   "Default": {
-    "HeaderImage": "https://raw.githubusercontent.com/dora727/doworarepo/refs/heads/misaka/Essentials/RepoIcon.png",
+    "HeaderImage": "https://raw.githubusercontent.com/dora727/doworarepo/refs/heads/master/Essentials/RepoIcon.png",
     "ViewCount": true
   },
   "RepositoryAccent": "#ADC5FA",
@@ -13,7 +13,7 @@
     {
       "name": "osu!lazer argon Passcode",
       "bundleid": "misaka.dor4a.osuargonPasscode",
-      "banner": "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Banners/osuargonPasscode.png",
+      "banner": "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Banners/osuargonPasscode.png",
       "showname": false
     }
   ],
@@ -30,24 +30,24 @@
           }
         ]
       },
-      "Icon": "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Icons/osuargonPasscode.png",
-      "HeaderImage": "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Banners/osuargonPasscode.png",
+      "Icon": "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Icons/osuargonPasscode.png",
+      "HeaderImage": "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Banners/osuargonPasscode.png",
       "Category": "Passcode Themes",
       "Caption": "Pick your favorite color at Preference!",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "26.0.1",
       "Screenshot": [
-        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/osuargonPasscode/1.png",
-        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/osuargonPasscode/2.png",
-        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/osuargonPasscode/3.png",
-        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/osuargonPasscode/4.png",
-        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/osuargonPasscode/5.png"
+        "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Previews/osuargonPasscode/1.png",
+        "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Previews/osuargonPasscode/2.png",
+        "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Previews/osuargonPasscode/3.png",
+        "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Previews/osuargonPasscode/4.png",
+        "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Previews/osuargonPasscode/5.png"
       ],
       "Releases": [
         {
           "Version": "1.2.1",
           "Package": "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Tweaks/misaka.dor4a.osuargonPasscode.misaka",
-          "Description": "[Christmas]"
+          "Description": "Test misakaReborn"
         }
       ],
       "PackageID": "misaka.dor4a.osuargonPasscode"
@@ -68,17 +68,17 @@
           }
         ]
       },
-      "Icon": "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Icons/TrakyaRoundedFont100.png",
-      "HeaderImage": "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Banners/TrakyaRoundedFont100.jpg",
+      "Icon": "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Icons/TrakyaRoundedFont100.png",
+      "HeaderImage": "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Banners/TrakyaRoundedFont100.jpg",
       "Category": "Font",
       "Caption": "Font by Alexman, converted to tweak by doraa. Banner, Preview credit goes to Alexman.",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "26.0.1",
       "Screenshot": [
-        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/TrakyaRoundedFont100/1.jpg",
-        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/TrakyaRoundedFont100/2.jpg",
-        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/TrakyaRoundedFont100/3.jpg",
-        "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Previews/TrakyaRoundedFont100/4.jpg"
+        "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Previews/TrakyaRoundedFont100/1.jpg",
+        "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Previews/TrakyaRoundedFont100/2.jpg",
+        "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Previews/TrakyaRoundedFont100/3.jpg",
+        "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Previews/TrakyaRoundedFont100/4.jpg"
       ],
       "Releases": [
         {
