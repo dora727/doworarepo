@@ -70,7 +70,7 @@
       },
       "Icon": "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Icons/TrakyaRoundedFont100.png",
       "HeaderImage": "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Banners/TrakyaRoundedFont100.jpg",
-      "Category": "Font",
+      "Category": "Fonts",
       "Caption": "Font by Alexman, converted to tweak by doraa. Banner, Preview credit goes to Alexman.",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "26.0.1",
@@ -88,6 +88,36 @@
         }
       ],
       "PackageID": "misaka.dor4a.TrakyaRoundedFont100"
+    },
+    {
+      "Name": "MOV HD",
+      "Description": "i only notice the mov channel (t chỉ để ý kênh mov)",
+      "Author": {
+        "Label": "dor4a, nghia mov",
+        "Links": [
+          {
+            "Label": "dor4a",
+            "Link": "https://discordapp.com/users/455513497288310785"
+          }
+        ]
+      },
+      "Icon": "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Icons/MOVHD.png",
+      "HeaderImage": "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Banners/MOVHD.png",
+      "Category": ":trollface:",
+      "Caption": "install and your phone will only notice the mov channel",
+      "MinIOSVersion": "67.0",
+      "MaxIOSVersion": "69.4.20",
+      "Screenshot": [
+        "https://github.com/dora727/doworarepo/raw/refs/heads/master/Essentials/Banners/MOVHD.png"
+      ],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/dora727/doworarepo/raw/refs/heads/misaka/Essentials/Tweaks/cmmb.dor4a.MOVHD.misaka",
+          "Description": "lol"
+        }
+      ],
+      "PackageID": "cmmb.dor4a.MOVHD"
     }
   ]
 }
